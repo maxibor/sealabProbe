@@ -1,5 +1,5 @@
 
-//FUSION Temperature & light intensity & movement & water level
+//FUSION Temperature & light intensity & movement
 
 //Include library for temperature
 #include <OneWire.h>
@@ -199,7 +199,7 @@ void setup(){
  // if the file opened okay, write to it:
  if (myFile) {
    Serial.print("Writing to result.txt...");
-   myFile.println("temperature light X Y Z water");
+   myFile.println("temperature light X Y Z");
  // close the file:
    myFile.close();
    Serial.println("done.");
@@ -269,11 +269,6 @@ void setup(void)
      displayRange();
      Serial.println("");
    }
- //Setup for water level
-   {
-     Serial.begin(9600);
-
-   }
 }
 
 
@@ -324,15 +319,10 @@ void loop(void)
    delay(500);
  }
 
- //Water level
- {
- waterValue = analogRead(5);
- Serial.println(waterValue);
- delay(100);
- }
+
 
  to_save = String(temperatureValue)
- to_save = to_save + String(event.light) + String(event.acceleration.x) + String(event.acceleration.y) + String(event.acceleration.z) + String(waterValue);
+ to_save = to_save + String(event.light) + String(event.acceleration.x) + String(event.acceleration.y) + String(event.acceleration.z) ;
  myFile = SD.open("result.txt", FILE_WRITE);
 
   // if the file opened okay, write to it:
