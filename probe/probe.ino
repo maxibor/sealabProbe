@@ -179,7 +179,7 @@ void loop(void){
 //SD card
  String to_save = "";
  to_save = String(temperatureValue);
- to_save = to_save +"," + String(event.light) +"," + String(event.acceleration.x) +","+ String(event.acceleration.y) +"," String(event.acceleration.z) ;
+ to_save = to_save +String(",") + String(event.light) + String(",") + String(event.acceleration.x) + String(",")+ String(event.acceleration.y) + String(",") + String(event.acceleration.z) ;
  myFile = SD.open("result.txt", FILE_WRITE);
 
   // if the file opened okay, write to it:
