@@ -5,12 +5,15 @@
 #include <DallasTemperature.h>
 #include <SD.h>
 #include <Wire.h>
+
+
 #include <Adafruit_Sensor.h>
 #include <Adafruit_TSL2561_U.h>
 #include <Adafruit_ADXL345_U.h>
 
 #define ONE_WIRE_BUS 9
 #define SD_CARD_PIN 10
+
 
 float temperatureValue;
 File myFile;
@@ -62,6 +65,10 @@ void configureSensor(void){
 //MAIN FUNCTION SETUP FOR TEMPERATURE AND LIGHT INTENSITY AND MOVEMENT
 
 void setup(){
+
+ // Setup Serial connection
+ Serial.begin(9600);
+  
  //Setup of temperature sensor
  Serial.begin(9600);
  Serial.println("Dallas Temperature IC Control Library Demo");
@@ -122,7 +129,7 @@ void setup(){
  // if the file opened okay, write to it:
  if (myFile) {
    Serial.print("Writing to result.txt...");
-   myFile.println("temperature light X Y Z");
+   myFile.println("date, time, temperature, X, Y, Z");
  // close the file:
    myFile.close();
    Serial.println("done.");
@@ -177,9 +184,7 @@ void loop(void){
 
 
 //SD card
- String to_save = "";
- to_save = String(temperatureValue);
- to_save = to_save +String(",") + String(event.light) + String(",") + String(event.acceleration.x) + String(",")+ String(event.acceleration.y) + String(",") + String(event.acceleration.z) ;
+ to_save =String(temperatureValue) +String(",") + String(",") + String(event.acceleration.x) + String(",")+ String(event.acceleration.y) + String(",") + String(event.acceleration.z) ;
  myFile = SD.open("result.txt", FILE_WRITE);
 
   // if the file opened okay, write to it:
