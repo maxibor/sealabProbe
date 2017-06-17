@@ -129,7 +129,7 @@ void setup(){
  // if the file opened okay, write to it:
  if (myFile) {
    Serial.print("Writing to result.txt...");
-   myFile.println("date, time, temperature, X, Y, Z");
+   myFile.println("temperature, X, Y, Z");
  // close the file:
    myFile.close();
    Serial.println("done.");
@@ -184,7 +184,7 @@ void loop(void){
 
 
 //SD card
- to_save =String(temperatureValue) +String(",") + String(",") + String(event.acceleration.x) + String(",")+ String(event.acceleration.y) + String(",") + String(event.acceleration.z) ;
+ to_save =String(temperatureValue) +String(",") + String(event.acceleration.x) + String(",")+ String(event.acceleration.y) + String(",") + String(event.acceleration.z) ;
  myFile = SD.open("result.txt", FILE_WRITE);
 
   // if the file opened okay, write to it:

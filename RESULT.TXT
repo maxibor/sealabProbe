@@ -1,0 +1,3876 @@
+temperature, X, Y, Z
+85.00,-5.84,-0.55,-7.06
+temperature, X, Y, Z
+85.00,-1.22,-1.69,-8.12
+temperature, X, Y, Z
+85.00,-2.43,-3.45,-8.83
+temperature, X, Y, Z
+85.00,0.67,-1.14,-8.63
+temperature, X, Y, Z
+85.00,0.59,-4.00,-8.16
+temperature, X, Y, Z
+85.00,-3.41,-2.08,-8.00
+temperature, X, Y, Z
+85.00,-2.79,-1.84,-8.12
+temperature, X, Y, Z
+85.00,-2.63,-1.33,-8.28
+temperature, X, Y, Z
+85.00,-2.75,-1.18,-8.32
+temperature, X, Y, Z
+85.00,-2.71,-1.33,-8.28
+temperature, X, Y, Z
+85.00,-1.96,-2.31,-8.28
+temperature, X, Y, Z
+85.00,-2.04,-1.33,-8.55
+temperature, X, Y, Z
+85.00,-1.69,-1.14,-8.51
+temperature, X, Y, Z
+85.00,-1.02,-1.22,-8.94
+temperature, X, Y, Z
+85.00,-0.94,-1.57,-8.79
+temperature, X, Y, Z
+85.00,-1.37,-1.18,-8.51
+temperature, X, Y, Z
+85.00,-2.82,-2.31,-8.94
+temperature, X, Y, Z
+85.00,-0.63,0.59,-8.83
+temperature, X, Y, Z
+85.00,-5.69,-2.94,-6.20
+temperature, X, Y, Z
+85.00,-0.90,0.04,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.59
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.59
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.47
+temperature, X, Y, Z
+85.00,1.10,-0.47,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.47,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.55
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.59
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.59
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.59
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.51,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.47,-8.63
+temperature, X, Y, Z
+85.00,1.06,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.59
+temperature, X, Y, Z
+85.00,1.06,-0.39,-8.59
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.59
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.67
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.67
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.67
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.63
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.67
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.67
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.67
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.67
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.67
+temperature, X, Y, Z
+85.00,1.18,-0.43,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.67
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.43,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.06,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.18,-0.39,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.43,-8.79
+temperature, X, Y, Z
+85.00,1.18,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.06,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.18,-0.39,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.31,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.87
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.83
+temperature, X, Y, Z
+85.00,1.14,-0.31,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.31,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.06,-0.35,-8.87
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.31,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.06,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.71
+temperature, X, Y, Z
+85.00,1.14,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.71
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.14,-0.35,-8.75
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.83
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.35,-8.79
+temperature, X, Y, Z
+85.00,1.06,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.39,-8.79
+temperature, X, Y, Z
+85.00,1.10,-0.31,-8.83
+temperature, X, Y, Z
+85.00,-0.67,-0.98,-8.51
+temperature, X, Y, Z
+85.00,-1.88,-1.57,-8.47
+temperature, X, Y, Z
+85.00,-1.88,-0.71,-8.63
+temperature, X, Y, Z
+85.00,-1.80,-0.51,-8.32
+temperature, X, Y, Z
+85.00,4.24,-2.51,-8.71
+temperature, X, Y, Z
+85.00,0.12,-3.30,-10.04
+temperature, X, Y, Z
+85.00,-1.49,-2.08,-8.39
+temperature, X, Y, Z
+85.00,-2.47,-0.63,-9.18
+temperature, X, Y, Z
+85.00,-0.55,-1.96,-8.59
+temperature, X, Y, Z
+85.00,-2.51,-1.18,-7.10
+temperature, X, Y, Z
+85.00,-1.69,-1.41,-8.04
+temperature, X, Y, Z
+85.00,-2.82,-0.78,-7.45
+temperature, X, Y, Z
+85.00,-0.08,2.55,-9.02
+temperature, X, Y, Z
+85.00,-2.28,0.08,-8.55
+temperature, X, Y, Z
+85.00,-2.00,0.16,-8.90
+temperature, X, Y, Z
+85.00,-2.47,0.00,-7.06
+temperature, X, Y, Z
+85.00,0.78,-1.26,-10.08
+temperature, X, Y, Z
+85.00,-0.39,-1.06,-8.24
+temperature, X, Y, Z
+85.00,-3.53,-1.41,-8.75
+temperature, X, Y, Z
+85.00,-2.51,-0.71,-10.24
+temperature, X, Y, Z
+85.00,-2.59,1.29,-8.79
+temperature, X, Y, Z
+85.00,-3.18,-0.04,-8.12
+temperature, X, Y, Z
+85.00,-3.65,-1.41,-7.88
+temperature, X, Y, Z
+85.00,-1.92,-0.55,-8.83
+temperature, X, Y, Z
+85.00,-2.39,-1.02,-8.39
+temperature, X, Y, Z
+85.00,-3.61,1.77,-9.02
+temperature, X, Y, Z
+85.00,-2.86,-0.98,-7.53
+temperature, X, Y, Z
+85.00,-0.71,0.71,-8.47
+temperature, X, Y, Z
+85.00,-2.08,-0.20,-10.20
+temperature, X, Y, Z
+85.00,-2.82,-2.00,-7.81
+temperature, X, Y, Z
+85.00,-2.12,-0.67,-8.24
+temperature, X, Y, Z
+85.00,-2.20,0.71,-8.51
+temperature, X, Y, Z
+85.00,-2.00,-1.06,-7.41
+temperature, X, Y, Z
+85.00,-4.24,-2.39,-7.06
+temperature, X, Y, Z
+85.00,-2.35,-0.75,-9.30
+temperature, X, Y, Z
+85.00,-2.71,-1.69,-8.00
+temperature, X, Y, Z
+85.00,-1.18,-0.82,-7.92
+temperature, X, Y, Z
+85.00,-1.96,0.12,-9.10
+temperature, X, Y, Z
+85.00,0.94,0.98,-12.12
+temperature, X, Y, Z
+85.00,-2.82,-0.08,-7.57
+temperature, X, Y, Z
+85.00,-3.22,0.00,-7.85
+temperature, X, Y, Z
+85.00,-2.55,-1.69,-7.22
+temperature, X, Y, Z
+85.00,-2.28,-1.49,-8.12
+temperature, X, Y, Z
+85.00,-4.75,0.51,-11.10
+temperature, X, Y, Z
+85.00,-2.20,-1.92,-8.55
+temperature, X, Y, Z
+85.00,-3.06,-1.29,-7.41
+temperature, X, Y, Z
+85.00,-1.26,-0.27,-7.41
+temperature, X, Y, Z
+85.00,-1.29,-0.59,-7.22
+temperature, X, Y, Z
+85.00,-3.26,0.39,-8.83
+temperature, X, Y, Z
+85.00,0.04,-0.71,-9.14
+temperature, X, Y, Z
+85.00,-1.61,-1.10,-7.96
+temperature, X, Y, Z
+85.00,-1.53,-0.67,-8.87
+temperature, X, Y, Z
+85.00,-0.98,-0.24,-7.49
+temperature, X, Y, Z
+85.00,-1.18,-0.55,-8.59
+temperature, X, Y, Z
+85.00,-1.61,-1.14,-8.94
+temperature, X, Y, Z
+85.00,-2.43,-2.82,-8.94
+temperature, X, Y, Z
+85.00,-2.75,-1.69,-7.02
+temperature, X, Y, Z
+85.00,-0.75,-1.77,-7.92
+temperature, X, Y, Z
+85.00,-1.61,-1.53,-9.45
+temperature, X, Y, Z
+85.00,-1.61,-0.98,-9.81
+temperature, X, Y, Z
+85.00,-1.45,-1.14,-8.36
+temperature, X, Y, Z
+85.00,-0.86,-0.90,-9.49
+temperature, X, Y, Z
+85.00,-2.75,-0.16,-8.47
+temperature, X, Y, Z
+85.00,-4.67,-1.84,-12.36
+temperature, X, Y, Z
+85.00,-0.31,-1.26,-9.02
+temperature, X, Y, Z
+85.00,-2.51,-1.22,-7.65
+temperature, X, Y, Z
+85.00,-2.00,-0.51,-8.36
+temperature, X, Y, Z
+85.00,-1.37,-1.77,-7.65
+temperature, X, Y, Z
+85.00,-3.69,-1.45,-7.81
+temperature, X, Y, Z
+85.00,-1.26,-1.49,-8.28
+temperature, X, Y, Z
+85.00,-0.35,-0.04,-10.12
+temperature, X, Y, Z
+85.00,-2.04,-1.45,-10.75
+temperature, X, Y, Z
+85.00,-4.24,-2.67,-8.59
+temperature, X, Y, Z
+85.00,-2.35,-1.37,-7.53
+temperature, X, Y, Z
+85.00,-2.59,-0.43,-6.98
+temperature, X, Y, Z
+85.00,-1.69,-0.31,-7.10
+temperature, X, Y, Z
+85.00,-2.75,-0.94,-9.65
+temperature, X, Y, Z
+85.00,-1.53,-0.75,-8.36
+temperature, X, Y, Z
+85.00,-1.53,-0.08,-9.96
+temperature, X, Y, Z
+85.00,-4.63,0.24,-8.71
+temperature, X, Y, Z
+85.00,-1.26,0.24,-8.51
+temperature, X, Y, Z
+85.00,-1.69,-0.78,-8.63
+temperature, X, Y, Z
+85.00,-1.18,-0.71,-9.14
+temperature, X, Y, Z
+85.00,-3.41,-0.43,-7.37
+temperature, X, Y, Z
+85.00,-3.77,-2.04,-8.28
+temperature, X, Y, Z
+85.00,-0.51,-1.49,-8.94
+temperature, X, Y, Z
+85.00,-1.73,-0.67,-8.32
+temperature, X, Y, Z
+85.00,-1.06,0.39,-8.67
+temperature, X, Y, Z
+85.00,-2.16,-1.10,-6.98
+temperature, X, Y, Z
+85.00,-3.14,-0.78,-8.16
+temperature, X, Y, Z
+85.00,-3.06,-2.39,-9.22
+temperature, X, Y, Z
+85.00,-3.61,-3.61,-9.14
+temperature, X, Y, Z
+85.00,-1.53,-0.82,-8.16
+temperature, X, Y, Z
+85.00,-1.10,-1.29,-9.34
+temperature, X, Y, Z
+85.00,-3.65,-1.18,-8.04
+temperature, X, Y, Z
+85.00,-4.20,-0.20,-9.30
+temperature, X, Y, Z
+85.00,-3.06,-0.90,-7.45
+temperature, X, Y, Z
+85.00,-2.86,0.08,-6.47
+temperature, X, Y, Z
+85.00,-2.71,-0.82,-8.20
+temperature, X, Y, Z
+85.00,-2.31,-0.59,-8.75
+temperature, X, Y, Z
+85.00,-2.04,-2.43,-10.43
+temperature, X, Y, Z
+85.00,-1.33,0.24,-8.98
+temperature, X, Y, Z
+85.00,-3.14,-1.49,-7.92
+temperature, X, Y, Z
+85.00,-2.20,-0.71,-8.79
+temperature, X, Y, Z
+85.00,-1.77,-1.29,-8.87
+temperature, X, Y, Z
+85.00,-1.73,-0.75,-8.36
+temperature, X, Y, Z
+85.00,-4.24,-2.04,-7.57
+temperature, X, Y, Z
+85.00,-2.75,-0.78,-8.87
+temperature, X, Y, Z
+85.00,-0.55,0.39,-8.79
+temperature, X, Y, Z
+85.00,-4.20,0.27,-6.55
+temperature, X, Y, Z
+85.00,-3.65,-0.27,-10.71
+temperature, X, Y, Z
+85.00,-3.22,-0.86,-7.26
+temperature, X, Y, Z
+85.00,-3.96,-0.67,-7.85
+temperature, X, Y, Z
+85.00,-2.71,-2.20,-9.85
+temperature, X, Y, Z
+85.00,-3.18,-2.31,-7.77
+temperature, X, Y, Z
+85.00,-2.59,-1.57,-8.47
+temperature, X, Y, Z
+85.00,-3.80,-0.43,-8.79
+temperature, X, Y, Z
+85.00,-2.90,-0.04,-6.39
+temperature, X, Y, Z
+85.00,-1.14,-1.14,-7.30
+temperature, X, Y, Z
+85.00,-3.33,-1.80,-7.96
+temperature, X, Y, Z
+85.00,-1.53,0.04,-8.90
+temperature, X, Y, Z
+85.00,0.35,-0.75,-9.02
+temperature, X, Y, Z
+85.00,-2.20,-0.35,-10.36
+temperature, X, Y, Z
+85.00,-3.80,-1.57,-6.67
+temperature, X, Y, Z
+85.00,-2.55,-0.90,-7.77
+temperature, X, Y, Z
+85.00,0.67,-0.04,-8.79
+temperature, X, Y, Z
+85.00,-1.53,1.06,-8.71
+temperature, X, Y, Z
+85.00,-1.96,-1.22,-7.77
+temperature, X, Y, Z
+85.00,-1.26,-1.06,-7.65
+temperature, X, Y, Z
+85.00,-2.31,-1.84,-8.67
+temperature, X, Y, Z
+85.00,-2.04,-2.35,-9.61
+temperature, X, Y, Z
+85.00,-1.14,-0.39,-8.00
+temperature, X, Y, Z
+85.00,-1.88,-0.27,-8.28
+temperature, X, Y, Z
+85.00,-2.51,-1.61,-9.45
+temperature, X, Y, Z
+85.00,-3.14,1.02,-8.32
+temperature, X, Y, Z
+85.00,-2.12,-0.43,-7.45
+temperature, X, Y, Z
+85.00,-2.47,-1.14,-8.87
+temperature, X, Y, Z
+85.00,-0.98,-0.78,-6.94
+temperature, X, Y, Z
+85.00,-1.96,-1.14,-8.39
+temperature, X, Y, Z
+85.00,-2.16,-1.02,-6.90
+temperature, X, Y, Z
+85.00,-0.16,-1.41,-8.00
+temperature, X, Y, Z
+85.00,-3.84,-1.57,-7.65
+temperature, X, Y, Z
+85.00,-1.06,-1.65,-8.43
+temperature, X, Y, Z
+85.00,-1.53,-0.47,-9.89
+temperature, X, Y, Z
+85.00,-1.77,-0.47,-8.43
+temperature, X, Y, Z
+85.00,-1.61,-1.10,-7.65
+temperature, X, Y, Z
+85.00,-1.65,-1.33,-7.49
+temperature, X, Y, Z
+85.00,-0.12,0.00,-9.18
+temperature, X, Y, Z
+85.00,-3.96,-0.78,-8.32
+temperature, X, Y, Z
+85.00,-1.22,-0.51,-10.16
+temperature, X, Y, Z
+85.00,-0.47,0.04,-9.30
+temperature, X, Y, Z
+85.00,-2.86,-0.86,-8.12
+temperature, X, Y, Z
+85.00,-2.28,-1.33,-7.92
+temperature, X, Y, Z
+85.00,-1.37,-1.26,-9.22
+temperature, X, Y, Z
+85.00,-1.57,-1.22,-9.73
+temperature, X, Y, Z
+85.00,-1.26,1.22,-8.94
+temperature, X, Y, Z
+85.00,-1.45,-1.80,-8.98
+temperature, X, Y, Z
+85.00,-3.84,-1.22,-6.94
+temperature, X, Y, Z
+85.00,0.35,-1.14,-9.30
+temperature, X, Y, Z
+85.00,-1.65,-1.02,-8.71
+temperature, X, Y, Z
+85.00,-2.08,-1.77,-9.96
+temperature, X, Y, Z
+85.00,-1.53,0.47,-9.61
+temperature, X, Y, Z
+85.00,-3.61,-1.37,-8.59
+temperature, X, Y, Z
+85.00,-3.02,-0.55,-7.92
+temperature, X, Y, Z
+85.00,-2.98,-0.86,-6.94
+temperature, X, Y, Z
+85.00,-2.39,-1.69,-12.36
+temperature, X, Y, Z
+85.00,-1.73,-0.35,-8.32
+temperature, X, Y, Z
+85.00,-1.80,-1.96,-9.06
+temperature, X, Y, Z
+85.00,-2.59,-0.31,-9.73
+temperature, X, Y, Z
+85.00,-0.39,-1.02,-10.12
+temperature, X, Y, Z
+85.00,-4.47,-0.71,-7.22
+temperature, X, Y, Z
+85.00,-1.61,-0.39,-9.18
+temperature, X, Y, Z
+85.00,-2.90,-0.78,-8.63
+temperature, X, Y, Z
+85.00,0.04,0.31,-9.45
+temperature, X, Y, Z
+85.00,-0.98,-0.24,-8.71
+temperature, X, Y, Z
+85.00,-5.45,0.31,-7.92
+temperature, X, Y, Z
+85.00,-3.57,0.16,-8.83
+temperature, X, Y, Z
+85.00,-0.82,-1.26,-8.47
+temperature, X, Y, Z
+85.00,-2.86,0.16,-9.18
+temperature, X, Y, Z
+85.00,-2.20,-1.29,-6.75
+temperature, X, Y, Z
+85.00,-2.16,-0.71,-8.83
+temperature, X, Y, Z
+85.00,-3.26,-0.08,-9.18
+temperature, X, Y, Z
+85.00,-3.18,-0.59,-7.45
+temperature, X, Y, Z
+85.00,-1.33,0.04,-6.86
+temperature, X, Y, Z
+85.00,-2.16,-0.47,-8.63
+temperature, X, Y, Z
+85.00,-2.82,0.04,-7.88
+temperature, X, Y, Z
+85.00,-2.04,-1.26,-9.81
+temperature, X, Y, Z
+85.00,-1.26,-1.22,-8.04
+temperature, X, Y, Z
+85.00,-1.84,-0.59,-8.43
+temperature, X, Y, Z
+85.00,-3.80,-1.22,-7.53
+temperature, X, Y, Z
+85.00,-2.16,-2.12,-8.32
+temperature, X, Y, Z
+85.00,-2.12,-1.88,-8.98
+temperature, X, Y, Z
+85.00,-2.39,-1.26,-8.87
+temperature, X, Y, Z
+85.00,-2.28,-0.59,-7.77
+temperature, X, Y, Z
+85.00,-2.98,-1.84,-8.43
+temperature, X, Y, Z
+85.00,-3.18,-3.10,-8.90
+temperature, X, Y, Z
+85.00,-0.31,0.16,-9.02
+temperature, X, Y, Z
+85.00,-1.18,0.51,-8.87
+temperature, X, Y, Z
+85.00,-4.39,-1.45,-7.37
+temperature, X, Y, Z
+85.00,-1.92,0.63,-7.88
+temperature, X, Y, Z
+85.00,-2.47,-0.82,-8.16
+temperature, X, Y, Z
+85.00,-1.49,-0.43,-6.43
+temperature, X, Y, Z
+85.00,-2.24,-0.98,-9.61
+temperature, X, Y, Z
+85.00,-2.51,-0.71,-7.41
+temperature, X, Y, Z
+85.00,-3.61,0.51,-8.75
+temperature, X, Y, Z
+85.00,-0.35,-0.75,-10.04
+temperature, X, Y, Z
+85.00,-0.98,-1.45,-8.00
+temperature, X, Y, Z
+85.00,-2.31,-0.90,-9.61
+temperature, X, Y, Z
+85.00,-3.45,-0.16,-7.49
+temperature, X, Y, Z
+85.00,-4.04,-0.82,-8.32
+temperature, X, Y, Z
+85.00,-4.04,-1.77,-6.94
+temperature, X, Y, Z
+85.00,-1.26,-0.51,-9.02
+temperature, X, Y, Z
+85.00,-1.92,-0.08,-8.94
+temperature, X, Y, Z
+85.00,-0.47,-2.20,-12.24
+temperature, X, Y, Z
+85.00,-3.61,0.55,-7.69
+temperature, X, Y, Z
+85.00,-2.55,-1.06,-7.57
+temperature, X, Y, Z
+85.00,-4.47,-1.61,-6.51
+temperature, X, Y, Z
+85.00,-3.92,-1.10,-8.98
+temperature, X, Y, Z
+85.00,-1.33,-0.86,-7.81
+temperature, X, Y, Z
+85.00,-3.84,-0.67,-9.45
+temperature, X, Y, Z
+85.00,-1.45,-1.69,-9.14
+temperature, X, Y, Z
+85.00,-4.04,-0.98,-8.67
+temperature, X, Y, Z
+85.00,-4.24,-1.37,-8.55
+temperature, X, Y, Z
+85.00,-2.24,0.12,-8.36
+temperature, X, Y, Z
+85.00,-1.53,-1.77,-8.24
+temperature, X, Y, Z
+85.00,-0.75,-0.67,-9.41
+temperature, X, Y, Z
+85.00,-3.57,-0.51,-7.57
+temperature, X, Y, Z
+85.00,-2.24,-0.27,-8.00
+temperature, X, Y, Z
+85.00,-0.47,-0.08,-9.06
+temperature, X, Y, Z
+85.00,-2.08,0.00,-9.06
+temperature, X, Y, Z
+85.00,-3.10,-2.43,-9.57
+temperature, X, Y, Z
+85.00,-3.49,-0.12,-8.24
+temperature, X, Y, Z
+85.00,-3.10,-1.69,-6.55
+temperature, X, Y, Z
+85.00,-2.24,-0.86,-6.90
+temperature, X, Y, Z
+85.00,-1.69,1.14,-8.55
+temperature, X, Y, Z
+85.00,-0.86,-0.59,-7.77
+temperature, X, Y, Z
+85.00,-2.47,-0.20,-7.69
+temperature, X, Y, Z
+85.00,-2.24,-0.51,-8.47
+temperature, X, Y, Z
+85.00,0.63,0.00,-8.79
+temperature, X, Y, Z
+85.00,-3.53,-1.26,-10.20
+temperature, X, Y, Z
+85.00,-2.39,-1.02,-7.49
+temperature, X, Y, Z
+85.00,-1.14,-0.31,-7.37
+temperature, X, Y, Z
+85.00,-1.69,-1.10,-8.04
+temperature, X, Y, Z
+85.00,-0.20,-1.26,-9.57
+temperature, X, Y, Z
+85.00,-0.55,-1.06,-7.85
+temperature, X, Y, Z
+85.00,-1.14,-0.51,-9.14
+temperature, X, Y, Z
+85.00,-2.59,-0.94,-9.18
+temperature, X, Y, Z
+85.00,-2.24,-1.29,-7.53
+temperature, X, Y, Z
+85.00,-1.96,-0.75,-8.08
+temperature, X, Y, Z
+85.00,-2.51,-1.45,-8.51
+temperature, X, Y, Z
+85.00,-1.53,0.86,-6.51
+temperature, X, Y, Z
+85.00,-1.33,-0.67,-9.73
+temperature, X, Y, Z
+85.00,-0.51,-0.08,-7.30
+temperature, X, Y, Z
+85.00,-4.08,-2.24,-7.85
+temperature, X, Y, Z
+85.00,-3.10,-0.98,-7.81
+temperature, X, Y, Z
+85.00,-2.63,-0.90,-8.79
+temperature, X, Y, Z
+85.00,0.04,1.18,-10.63
+temperature, X, Y, Z
+85.00,-4.16,-1.33,-7.53
+temperature, X, Y, Z
+85.00,-1.10,-0.90,-9.10
+temperature, X, Y, Z
+85.00,-2.20,-1.45,-8.12
+temperature, X, Y, Z
+85.00,-2.20,0.04,-7.88
+temperature, X, Y, Z
+85.00,0.82,-1.02,-10.51
+temperature, X, Y, Z
+85.00,-1.88,0.08,-9.18
+temperature, X, Y, Z
+85.00,-1.73,-1.18,-8.51
+temperature, X, Y, Z
+85.00,-2.47,-0.08,-7.53
+temperature, X, Y, Z
+85.00,-2.16,0.04,-9.41
+temperature, X, Y, Z
+85.00,-1.37,-1.73,-8.39
+temperature, X, Y, Z
+85.00,-2.08,-1.96,-7.53
+temperature, X, Y, Z
+85.00,-1.77,-0.27,-8.20
+temperature, X, Y, Z
+85.00,-0.39,0.04,-8.59
+temperature, X, Y, Z
+85.00,-1.65,-1.49,-10.12
+temperature, X, Y, Z
+85.00,-2.43,-0.71,-8.39
+temperature, X, Y, Z
+85.00,-0.71,-1.33,-7.53
+temperature, X, Y, Z
+85.00,-0.71,-0.51,-8.16
+temperature, X, Y, Z
+85.00,-2.28,-1.88,-7.77
+temperature, X, Y, Z
+85.00,-3.96,-0.43,-8.04
+temperature, X, Y, Z
+85.00,-3.65,-0.78,-9.41
+temperature, X, Y, Z
+85.00,-1.37,-1.26,-8.16
+temperature, X, Y, Z
+85.00,-3.84,-0.98,-7.85
+temperature, X, Y, Z
+85.00,-0.71,-3.69,-8.59
+temperature, X, Y, Z
+85.00,-2.51,-3.26,-8.83
+temperature, X, Y, Z
+85.00,-2.08,-0.08,-7.34
+temperature, X, Y, Z
+85.00,-2.79,-1.18,-8.00
+temperature, X, Y, Z
+85.00,-1.53,-0.43,-8.67
+temperature, X, Y, Z
+85.00,0.16,-1.10,-8.47
+temperature, X, Y, Z
+85.00,-3.57,1.49,-9.41
+temperature, X, Y, Z
+85.00,-2.63,-0.86,-9.53
+temperature, X, Y, Z
+85.00,-1.92,-2.16,-7.45
+temperature, X, Y, Z
+85.00,-2.28,0.24,-9.92
+temperature, X, Y, Z
+85.00,-4.24,-0.71,-7.85
+temperature, X, Y, Z
+85.00,-1.41,-0.51,-8.98
+temperature, X, Y, Z
+85.00,-4.39,0.78,-5.88
+temperature, X, Y, Z
+85.00,-1.14,-0.51,-7.53
+temperature, X, Y, Z
+85.00,-2.00,2.28,-7.65
+temperature, X, Y, Z
+85.00,-2.51,-0.35,-8.28
+temperature, X, Y, Z
+85.00,-2.43,-0.04,-7.88
+temperature, X, Y, Z
+85.00,-2.82,0.00,-6.32
+temperature, X, Y, Z
+85.00,-0.75,-1.61,-8.55
+temperature, X, Y, Z
+85.00,-0.16,-1.53,-9.38
+temperature, X, Y, Z
+85.00,-1.49,-0.27,-10.04
+temperature, X, Y, Z
+85.00,-2.71,-0.12,-7.18
+temperature, X, Y, Z
+85.00,-4.04,-2.08,-7.49
+temperature, X, Y, Z
+85.00,-3.80,-0.78,-6.32
+temperature, X, Y, Z
+85.00,-1.37,-1.02,-7.73
+temperature, X, Y, Z
+85.00,-1.65,-0.71,-7.34
+temperature, X, Y, Z
+85.00,-3.77,-0.12,-8.28
+temperature, X, Y, Z
+85.00,-3.53,-0.55,-8.75
+temperature, X, Y, Z
+85.00,-0.55,-1.57,-8.59
+temperature, X, Y, Z
+85.00,-3.84,-0.55,-7.96
+temperature, X, Y, Z
+85.00,0.00,-1.84,-9.49
+temperature, X, Y, Z
+85.00,-0.94,-1.65,-8.51
+temperature, X, Y, Z
+85.00,-4.31,-2.47,-10.00
+temperature, X, Y, Z
+85.00,-0.90,-0.94,-9.92
+temperature, X, Y, Z
+85.00,-1.26,-1.18,-8.83
+temperature, X, Y, Z
+85.00,-0.08,-1.14,-9.14
+temperature, X, Y, Z
+85.00,-2.75,0.08,-8.71
+temperature, X, Y, Z
+85.00,-2.12,0.98,-8.47
+temperature, X, Y, Z
+85.00,-0.67,0.67,-9.18
+temperature, X, Y, Z
+85.00,-1.29,-1.45,-8.43
+temperature, X, Y, Z
+85.00,-1.65,-0.27,-9.26
+temperature, X, Y, Z
+85.00,-1.96,-0.63,-9.53
+temperature, X, Y, Z
+85.00,-0.16,-1.45,-7.92
+temperature, X, Y, Z
+85.00,-0.82,-1.65,-9.10
+temperature, X, Y, Z
+85.00,-2.28,-1.10,-9.57
+temperature, X, Y, Z
+85.00,-0.75,-1.10,-8.98
+temperature, X, Y, Z
+85.00,-4.39,-1.84,-8.08
+temperature, X, Y, Z
+85.00,-3.33,-0.04,-7.06
+temperature, X, Y, Z
+85.00,-0.08,0.67,-7.41
+temperature, X, Y, Z
+85.00,-5.06,-1.10,-7.65
+temperature, X, Y, Z
+85.00,-4.08,-0.98,-9.02
+temperature, X, Y, Z
+85.00,-3.88,-0.63,-7.92
+temperature, X, Y, Z
+85.00,-2.35,-0.67,-7.92
+temperature, X, Y, Z
+85.00,-2.28,-0.47,-8.24
+temperature, X, Y, Z
+85.00,-3.06,-2.47,-7.61
+temperature, X, Y, Z
+85.00,-1.57,-1.41,-7.18
+temperature, X, Y, Z
+85.00,-1.77,-0.43,-7.92
+temperature, X, Y, Z
+85.00,-2.35,-0.94,-8.43
+temperature, X, Y, Z
+85.00,-1.22,-1.06,-7.69
+temperature, X, Y, Z
+85.00,-2.16,-0.51,-9.30
+temperature, X, Y, Z
+85.00,-1.37,-1.37,-9.34
+temperature, X, Y, Z
+85.00,-1.92,-2.47,-10.32
+temperature, X, Y, Z
+85.00,0.82,-0.31,-8.83
+temperature, X, Y, Z
+85.00,-2.79,-0.75,-7.06
+temperature, X, Y, Z
+85.00,-3.02,-0.27,-7.73
+temperature, X, Y, Z
+85.00,-2.63,-1.37,-8.43
+temperature, X, Y, Z
+85.00,-3.96,-1.26,-7.81
+temperature, X, Y, Z
+85.00,-0.39,0.39,-9.34
+temperature, X, Y, Z
+85.00,-2.51,-1.10,-9.14
+temperature, X, Y, Z
+85.00,-2.51,-0.20,-7.45
+temperature, X, Y, Z
+85.00,-1.88,-2.71,-11.41
+temperature, X, Y, Z
+85.00,-3.10,0.51,-7.73
+temperature, X, Y, Z
+85.00,-2.08,-1.22,-8.00
+temperature, X, Y, Z
+85.00,-3.77,-1.73,-7.73
+temperature, X, Y, Z
+85.00,-3.22,-1.73,-7.53
+temperature, X, Y, Z
+85.00,-3.80,-2.35,-8.55
+temperature, X, Y, Z
+85.00,-3.88,-1.33,-8.39
+temperature, X, Y, Z
+85.00,-3.02,-1.29,-6.67
+temperature, X, Y, Z
+85.00,-2.39,-0.27,-11.49
+temperature, X, Y, Z
+85.00,-2.12,0.00,-8.24
+temperature, X, Y, Z
+85.00,-2.43,-1.26,-9.96
+temperature, X, Y, Z
+85.00,-4.59,-1.06,-6.63
+temperature, X, Y, Z
+85.00,-2.35,-1.49,-8.51
+temperature, X, Y, Z
+85.00,-1.41,1.06,-8.39
+temperature, X, Y, Z
+85.00,-3.02,0.04,-6.51
+temperature, X, Y, Z
+85.00,-3.96,0.94,-9.26
+temperature, X, Y, Z
+85.00,-2.86,-1.61,-6.94
+temperature, X, Y, Z
+85.00,-0.75,-0.24,-9.02
+temperature, X, Y, Z
+85.00,-3.53,-0.31,-8.32
+temperature, X, Y, Z
+85.00,-2.20,-2.12,-8.47
+temperature, X, Y, Z
+85.00,-2.98,-2.08,-7.96
+temperature, X, Y, Z
+85.00,-0.12,3.65,-7.81
+temperature, X, Y, Z
+85.00,-2.04,-2.00,-8.00
+temperature, X, Y, Z
+85.00,-2.43,-1.10,-8.87
+temperature, X, Y, Z
+85.00,-1.96,-0.55,-9.73
+temperature, X, Y, Z
+85.00,-2.39,-0.35,-7.65
+temperature, X, Y, Z
+85.00,-1.84,-1.61,-8.24
+temperature, X, Y, Z
+85.00,-1.65,1.73,-9.65
+temperature, X, Y, Z
+85.00,-1.88,-0.94,-8.24
+temperature, X, Y, Z
+85.00,-3.61,0.86,-9.41
+temperature, X, Y, Z
+85.00,-2.79,-1.29,-8.71
+temperature, X, Y, Z
+85.00,-2.12,-2.16,-8.75
+temperature, X, Y, Z
+85.00,-1.57,-0.35,-8.08
+temperature, X, Y, Z
+85.00,-4.31,-0.86,-9.53
+temperature, X, Y, Z
+85.00,-2.55,-0.04,-7.69
+temperature, X, Y, Z
+85.00,-2.51,-1.57,-8.75
+temperature, X, Y, Z
+85.00,-4.20,-1.14,-8.51
+temperature, X, Y, Z
+85.00,-3.37,-0.39,-7.34
+temperature, X, Y, Z
+85.00,-2.16,-1.69,-8.04
+temperature, X, Y, Z
+85.00,-1.92,-0.51,-10.00
+temperature, X, Y, Z
+85.00,-2.20,-1.26,-8.43
+temperature, X, Y, Z
+85.00,-4.28,-1.41,-8.75
+temperature, X, Y, Z
+85.00,-0.98,-3.18,-9.45
+temperature, X, Y, Z
+85.00,-0.35,-1.22,-8.32
+temperature, X, Y, Z
+85.00,-1.14,-0.20,-8.67
+temperature, X, Y, Z
+85.00,-0.86,-0.86,-8.08
+temperature, X, Y, Z
+85.00,-2.59,-0.43,-9.18
+temperature, X, Y, Z
+85.00,-2.55,0.20,-7.85
+temperature, X, Y, Z
+85.00,-3.14,-0.86,-7.85
+temperature, X, Y, Z
+85.00,-1.18,0.20,-9.61
+temperature, X, Y, Z
+85.00,-3.30,-4.20,-8.98
+temperature, X, Y, Z
+85.00,-1.92,-0.24,-8.67
+temperature, X, Y, Z
+85.00,-2.39,2.51,-7.49
+temperature, X, Y, Z
+85.00,-1.33,1.14,-9.18
+temperature, X, Y, Z
+85.00,-1.69,-1.02,-9.18
+temperature, X, Y, Z
+85.00,-1.61,-0.35,-10.04
+temperature, X, Y, Z
+85.00,-1.14,1.49,-8.08
+temperature, X, Y, Z
+85.00,-1.69,-1.29,-8.94
+temperature, X, Y, Z
+85.00,-3.53,-1.33,-7.02
+temperature, X, Y, Z
+85.00,-1.84,-0.78,-7.53
+temperature, X, Y, Z
+85.00,-2.39,-1.53,-11.06
+temperature, X, Y, Z
+85.00,-2.47,0.55,-7.49
+temperature, X, Y, Z
+85.00,-1.49,-0.08,-9.61
+temperature, X, Y, Z
+85.00,-1.80,-2.86,-7.45
+temperature, X, Y, Z
+85.00,-1.14,-0.75,-7.88
+temperature, X, Y, Z
+85.00,-2.00,-2.16,-9.41
+temperature, X, Y, Z
+85.00,-1.61,-1.84,-6.90
+temperature, X, Y, Z
+85.00,-2.86,-2.31,-8.20
+temperature, X, Y, Z
+85.00,-2.04,-1.14,-9.22
+temperature, X, Y, Z
+85.00,-1.77,-2.16,-9.06
+temperature, X, Y, Z
+85.00,-1.80,-1.57,-8.08
+temperature, X, Y, Z
+85.00,-0.86,-1.61,-8.71
+temperature, X, Y, Z
+85.00,-2.90,-0.51,-7.53
+temperature, X, Y, Z
+85.00,-2.16,-0.12,-8.87
+temperature, X, Y, Z
+85.00,-1.92,-1.10,-7.49
+temperature, X, Y, Z
+85.00,-3.77,-1.10,-7.53
+temperature, X, Y, Z
+85.00,-1.26,-0.04,-9.53
+temperature, X, Y, Z
+85.00,-1.49,-0.63,-8.79
+temperature, X, Y, Z
+85.00,-2.28,-0.59,-8.00
+temperature, X, Y, Z
+85.00,-1.61,-0.75,-8.39
+temperature, X, Y, Z
+85.00,-1.29,-0.94,-8.43
+temperature, X, Y, Z
+85.00,-2.82,0.78,-7.41
+temperature, X, Y, Z
+85.00,-1.77,-1.26,-7.02
+temperature, X, Y, Z
+85.00,-3.37,-2.24,-7.57
+temperature, X, Y, Z
+85.00,-2.51,-2.28,-8.12
+temperature, X, Y, Z
+85.00,-2.20,-1.88,-7.81
+temperature, X, Y, Z
+85.00,-2.63,0.51,-7.41
+temperature, X, Y, Z
+85.00,-2.04,-2.71,-10.08
+temperature, X, Y, Z
+85.00,-1.84,-0.08,-7.65
+temperature, X, Y, Z
+85.00,-2.82,-2.04,-8.67
+temperature, X, Y, Z
+85.00,-2.90,-1.02,-7.77
+temperature, X, Y, Z
+85.00,-2.63,0.63,-8.32
+temperature, X, Y, Z
+85.00,-3.69,-1.02,-8.94
+temperature, X, Y, Z
+85.00,-2.43,-2.20,-10.24
+temperature, X, Y, Z
+85.00,-1.61,-1.57,-10.83
+temperature, X, Y, Z
+85.00,-2.59,-3.77,-8.71
+temperature, X, Y, Z
+85.00,-1.92,-3.37,-10.12
+temperature, X, Y, Z
+85.00,-1.96,-0.39,-8.51
+temperature, X, Y, Z
+85.00,-3.22,-3.45,-10.16
+temperature, X, Y, Z
+85.00,-1.80,-0.08,-8.28
+temperature, X, Y, Z
+85.00,-1.53,-0.75,-10.00
+temperature, X, Y, Z
+85.00,-2.51,-1.84,-7.02
+temperature, X, Y, Z
+85.00,-2.90,-0.51,-8.59
+temperature, X, Y, Z
+85.00,-0.55,-0.63,-9.57
+temperature, X, Y, Z
+85.00,-2.47,1.84,-7.45
+temperature, X, Y, Z
+85.00,-2.43,-0.98,-9.77
+temperature, X, Y, Z
+85.00,-2.71,-1.10,-8.90
+temperature, X, Y, Z
+85.00,-2.35,-1.02,-9.38
+temperature, X, Y, Z
+85.00,-3.26,-1.33,-9.02
+temperature, X, Y, Z
+85.00,-2.08,-2.63,-9.61
+temperature, X, Y, Z
+85.00,-1.22,-1.80,-8.98
+temperature, X, Y, Z
+85.00,-1.22,-2.63,-9.10
+temperature, X, Y, Z
+85.00,-3.65,-0.59,-7.53
+temperature, X, Y, Z
+85.00,-0.47,-1.61,-7.81
+temperature, X, Y, Z
+85.00,-1.88,0.71,-11.49
+temperature, X, Y, Z
+85.00,-2.35,-1.49,-8.63
+temperature, X, Y, Z
+85.00,-4.04,-0.12,-7.14
+temperature, X, Y, Z
+85.00,-1.26,-2.00,-8.16
+temperature, X, Y, Z
+85.00,-4.00,-1.57,-8.98
+temperature, X, Y, Z
+85.00,-0.63,0.67,-8.75
+temperature, X, Y, Z
+85.00,-2.55,-1.33,-9.10
+temperature, X, Y, Z
+85.00,-2.43,-1.45,-9.53
+temperature, X, Y, Z
+85.00,-2.04,-2.55,-8.90
+temperature, X, Y, Z
+85.00,-1.65,1.14,-6.47
+temperature, X, Y, Z
+85.00,-1.14,-1.18,-9.69
+temperature, X, Y, Z
+85.00,-3.61,0.24,-9.45
+temperature, X, Y, Z
+85.00,-1.61,-1.06,-9.41
+temperature, X, Y, Z
+85.00,-2.12,-2.16,-9.41
+temperature, X, Y, Z
+85.00,-1.22,-1.88,-8.51
+temperature, X, Y, Z
+85.00,-1.29,1.14,-7.77
+temperature, X, Y, Z
+85.00,-1.84,-0.67,-8.20
+temperature, X, Y, Z
+85.00,-2.20,-0.20,-8.16
+temperature, X, Y, Z
+85.00,-1.26,-2.16,-9.26
+temperature, X, Y, Z
+85.00,-0.47,-2.59,-7.73
+temperature, X, Y, Z
+85.00,-0.90,-1.92,-8.71
+temperature, X, Y, Z
+85.00,-2.12,-0.24,-8.79
+temperature, X, Y, Z
+85.00,-1.84,-0.20,-8.98
+temperature, X, Y, Z
+85.00,-2.59,-1.06,-7.57
+temperature, X, Y, Z
+85.00,-1.02,-0.20,-8.55
+temperature, X, Y, Z
+85.00,-2.31,0.35,-9.30
+temperature, X, Y, Z
+85.00,-2.28,-0.08,-7.49
+temperature, X, Y, Z
+85.00,-2.04,-2.12,-7.57
+temperature, X, Y, Z
+85.00,-1.88,-0.90,-8.59
+temperature, X, Y, Z
+85.00,-1.14,-2.24,-9.38
+temperature, X, Y, Z
+85.00,-2.71,-2.12,-10.12
+temperature, X, Y, Z
+85.00,-3.45,-2.24,-8.28
+temperature, X, Y, Z
+85.00,-2.08,2.08,-7.18
+temperature, X, Y, Z
+85.00,-4.24,-0.98,-6.94
+temperature, X, Y, Z
+85.00,-2.12,-1.69,-7.34
+temperature, X, Y, Z
+85.00,-3.57,-2.35,-8.32
+temperature, X, Y, Z
+85.00,-0.31,1.53,-8.20
+temperature, X, Y, Z
+85.00,-0.63,-1.92,-9.41
+temperature, X, Y, Z
+85.00,-1.37,-2.24,-7.73
+temperature, X, Y, Z
+85.00,-2.16,-0.20,-8.67
+temperature, X, Y, Z
+85.00,-2.35,-2.39,-8.67
+temperature, X, Y, Z
+85.00,-1.26,-0.20,-9.06
+temperature, X, Y, Z
+85.00,-1.92,-0.08,-8.55
+temperature, X, Y, Z
+85.00,-1.73,2.20,-7.61
+temperature, X, Y, Z
+85.00,-1.88,0.31,-9.26
+temperature, X, Y, Z
+85.00,-0.86,0.59,-8.59
+temperature, X, Y, Z
+85.00,-1.41,-0.90,-6.67
+temperature, X, Y, Z
+85.00,-2.47,-3.10,-8.71
+temperature, X, Y, Z
+85.00,-1.29,-3.26,-9.92
+temperature, X, Y, Z
+85.00,-2.28,-1.10,-7.41
+temperature, X, Y, Z
+85.00,-3.26,-0.16,-7.26
+temperature, X, Y, Z
+85.00,-1.45,-2.39,-8.08
+temperature, X, Y, Z
+85.00,-1.96,-1.77,-8.94
+temperature, X, Y, Z
+85.00,-2.63,-2.08,-8.51
+temperature, X, Y, Z
+85.00,-1.80,0.00,-8.32
+temperature, X, Y, Z
+85.00,-1.49,2.04,-9.49
+temperature, X, Y, Z
+85.00,-2.43,-2.55,-9.69
+temperature, X, Y, Z
+85.00,-2.67,-2.43,-9.49
+temperature, X, Y, Z
+85.00,-2.28,-1.57,-6.98
+temperature, X, Y, Z
+85.00,-2.51,-0.04,-9.14
+temperature, X, Y, Z
+85.00,-1.84,-0.24,-8.71
+temperature, X, Y, Z
+85.00,-1.80,-0.55,-7.92
+temperature, X, Y, Z
+85.00,-1.69,-1.80,-9.22
+temperature, X, Y, Z
+85.00,-1.65,-0.04,-8.00
+temperature, X, Y, Z
+85.00,-1.65,0.24,-7.53
+temperature, X, Y, Z
+85.00,-1.45,-0.24,-10.59
+temperature, X, Y, Z
+85.00,-0.27,-1.26,-8.63
+temperature, X, Y, Z
+85.00,-1.49,-0.63,-8.28
+temperature, X, Y, Z
+85.00,-2.98,-0.04,-8.04
+temperature, X, Y, Z
+85.00,-1.53,0.00,-6.32
+temperature, X, Y, Z
+85.00,-3.14,-0.63,-10.00
+temperature, X, Y, Z
+85.00,-0.71,-2.39,-10.47
+temperature, X, Y, Z
+85.00,-1.10,-0.98,-8.12
+temperature, X, Y, Z
+85.00,-1.26,-2.20,-8.71
+temperature, X, Y, Z
+85.00,-3.30,-2.00,-8.16
+temperature, X, Y, Z
+85.00,-1.73,-3.02,-9.73
+temperature, X, Y, Z
+85.00,-2.51,0.31,-7.41
+temperature, X, Y, Z
+85.00,-1.80,-1.49,-6.71
+temperature, X, Y, Z
+85.00,-2.67,-1.10,-7.69
+temperature, X, Y, Z
+85.00,-1.77,-0.04,-8.94
+temperature, X, Y, Z
+85.00,-2.08,-0.71,-8.47
+temperature, X, Y, Z
+85.00,-2.35,-2.55,-8.83
+temperature, X, Y, Z
+85.00,-1.88,-2.39,-7.69
+temperature, X, Y, Z
+85.00,-0.71,0.90,-8.24
+temperature, X, Y, Z
+85.00,-2.16,-1.10,-9.77
+temperature, X, Y, Z
+85.00,-1.65,0.16,-8.87
+temperature, X, Y, Z
+85.00,-2.24,-2.75,-9.41
+temperature, X, Y, Z
+85.00,-0.63,-2.59,-10.00
+temperature, X, Y, Z
+85.00,-1.33,0.00,-11.02
+temperature, X, Y, Z
+85.00,-3.18,-1.18,-8.16
+temperature, X, Y, Z
+85.00,-1.77,-0.78,-8.63
+temperature, X, Y, Z
+85.00,-2.24,-3.37,-8.12
+temperature, X, Y, Z
+85.00,-0.16,0.39,-8.55
+temperature, X, Y, Z
+85.00,-1.06,-1.88,-7.26
+temperature, X, Y, Z
+85.00,-1.77,-1.02,-8.71
+temperature, X, Y, Z
+85.00,-2.51,-2.08,-10.67
+temperature, X, Y, Z
+85.00,-1.61,0.04,-8.71
+temperature, X, Y, Z
+85.00,-1.33,-1.84,-9.85
+temperature, X, Y, Z
+85.00,-2.43,0.08,-8.47
+temperature, X, Y, Z
+85.00,-2.43,-0.75,-7.65
+temperature, X, Y, Z
+85.00,-2.12,-0.90,-8.94
+temperature, X, Y, Z
+85.00,-2.63,-0.86,-7.41
+temperature, X, Y, Z
+85.00,-2.51,0.51,-7.77
+temperature, X, Y, Z
+85.00,-2.16,-0.71,-10.20
+temperature, X, Y, Z
+85.00,-1.14,-1.10,-6.71
+temperature, X, Y, Z
+85.00,-2.28,0.00,-9.18
+temperature, X, Y, Z
+85.00,-1.37,-3.22,-7.88
+temperature, X, Y, Z
+85.00,-3.88,0.00,-8.90
+temperature, X, Y, Z
+85.00,-2.08,-0.71,-8.94
+temperature, X, Y, Z
+85.00,-0.71,-2.63,-8.16
+temperature, X, Y, Z
+85.00,-2.12,-2.24,-8.98
+temperature, X, Y, Z
+85.00,-3.30,-1.69,-9.14
+temperature, X, Y, Z
+85.00,-2.04,-1.77,-7.61
+temperature, X, Y, Z
+85.00,-2.35,-0.67,-7.92
+temperature, X, Y, Z
+85.00,-1.37,-0.43,-10.16
+temperature, X, Y, Z
+85.00,-3.14,-2.00,-8.20
+temperature, X, Y, Z
+85.00,-1.80,-2.00,-10.51
+temperature, X, Y, Z
+85.00,-1.73,0.55,-8.00
+temperature, X, Y, Z
+85.00,-3.14,-1.69,-8.32
+temperature, X, Y, Z
+85.00,-0.55,-2.67,-10.24
+temperature, X, Y, Z
+85.00,-1.22,-3.57,-8.94
+temperature, X, Y, Z
+85.00,-2.16,1.18,-8.79
+temperature, X, Y, Z
+85.00,-3.45,-1.88,-8.94
+temperature, X, Y, Z
+85.00,-2.39,-0.47,-8.39
+temperature, X, Y, Z
+85.00,-2.47,-1.45,-10.00
+temperature, X, Y, Z
+85.00,-1.57,-0.35,-8.24
+temperature, X, Y, Z
+85.00,-3.10,0.08,-7.26
+temperature, X, Y, Z
+85.00,-1.69,-0.78,-9.49
+temperature, X, Y, Z
+85.00,-1.80,-1.26,-7.45
+temperature, X, Y, Z
+85.00,-1.73,-2.75,-7.77
+temperature, X, Y, Z
+85.00,-0.71,-1.73,-7.88
+temperature, X, Y, Z
+85.00,-2.94,-0.51,-7.26
+temperature, X, Y, Z
+85.00,-1.88,-0.35,-6.98
+temperature, X, Y, Z
+85.00,-2.59,-0.67,-7.96
+temperature, X, Y, Z
+85.00,-4.20,-2.00,-10.71
+temperature, X, Y, Z
+85.00,-1.26,1.26,-7.88
+temperature, X, Y, Z
+85.00,-1.06,0.04,-7.77
+temperature, X, Y, Z
+85.00,-0.12,2.31,-6.51
+temperature, X, Y, Z
+85.00,-3.14,-2.24,-8.71
+temperature, X, Y, Z
+85.00,-1.53,-1.29,-7.61
+temperature, X, Y, Z
+85.00,-2.39,0.78,-8.32
+temperature, X, Y, Z
+85.00,-5.73,-2.51,-9.34
+temperature, X, Y, Z
+85.00,0.63,0.24,-8.39
+temperature, X, Y, Z
+85.00,-1.22,-2.47,-8.79
+temperature, X, Y, Z
+85.00,-1.92,-2.20,-7.49
+temperature, X, Y, Z
+85.00,-2.79,-0.35,-6.28
+temperature, X, Y, Z
+85.00,-2.12,-1.10,-8.39
+temperature, X, Y, Z
+85.00,-1.61,-3.69,-8.55
+temperature, X, Y, Z
+85.00,-1.53,-0.20,-7.92
+temperature, X, Y, Z
+85.00,-2.08,-0.12,-8.39
+temperature, X, Y, Z
+85.00,-2.20,2.71,-8.43
+temperature, X, Y, Z
+85.00,-0.75,-1.45,-7.57
+temperature, X, Y, Z
+85.00,-0.51,-2.55,-10.63
+temperature, X, Y, Z
+85.00,-2.59,2.24,-8.47
+temperature, X, Y, Z
+85.00,-1.80,-0.47,-9.26
+temperature, X, Y, Z
+85.00,-3.06,-0.55,-9.14
+temperature, X, Y, Z
+85.00,-0.78,0.86,-10.71
+temperature, X, Y, Z
+85.00,-1.69,-1.02,-8.16
+temperature, X, Y, Z
+85.00,-2.39,-2.24,-8.32
+temperature, X, Y, Z
+85.00,-4.39,0.47,-7.49
+temperature, X, Y, Z
+85.00,-2.47,-0.59,-6.94
+temperature, X, Y, Z
+85.00,-2.39,0.35,-7.92
+temperature, X, Y, Z
+85.00,-2.04,-1.18,-7.85
+temperature, X, Y, Z
+85.00,-2.16,-1.57,-8.12
+temperature, X, Y, Z
+85.00,-4.51,0.47,-7.10
+temperature, X, Y, Z
+85.00,-2.94,-2.31,-7.57
+temperature, X, Y, Z
+85.00,-1.06,0.00,-8.28
+temperature, X, Y, Z
+85.00,-2.31,0.08,-9.18
+temperature, X, Y, Z
+85.00,-1.45,-3.10,-9.38
+temperature, X, Y, Z
+85.00,0.00,1.02,-7.53
+temperature, X, Y, Z
+85.00,-3.49,0.51,-7.92
+temperature, X, Y, Z
+85.00,-3.26,-0.08,-7.77
+temperature, X, Y, Z
+85.00,-1.92,-1.33,-8.71
+temperature, X, Y, Z
+85.00,-1.18,-1.65,-8.28
+temperature, X, Y, Z
+85.00,-2.35,-0.63,-7.69
+temperature, X, Y, Z
+85.00,-1.53,-1.92,-8.71
+temperature, X, Y, Z
+85.00,-3.80,-1.77,-7.73
+temperature, X, Y, Z
+85.00,-3.37,-0.55,-7.49
+temperature, X, Y, Z
+85.00,-1.57,0.00,-8.67
+temperature, X, Y, Z
+85.00,-2.12,-1.49,-8.63
+temperature, X, Y, Z
+85.00,-2.20,-0.82,-7.96
+temperature, X, Y, Z
+85.00,-2.51,-0.35,-7.37
+temperature, X, Y, Z
+85.00,-2.00,-1.18,-8.83
+temperature, X, Y, Z
+85.00,-2.86,0.59,-10.87
+temperature, X, Y, Z
+85.00,-1.96,-2.67,-7.77
+temperature, X, Y, Z
+85.00,-2.43,-1.18,-8.90
+temperature, X, Y, Z
+85.00,-2.79,-3.06,-10.00
+temperature, X, Y, Z
+85.00,-0.94,-3.06,-10.59
+temperature, X, Y, Z
+85.00,-4.08,0.47,-8.08
+temperature, X, Y, Z
+85.00,-1.77,-1.65,-9.18
+temperature, X, Y, Z
+85.00,-2.75,-1.06,-8.47
+temperature, X, Y, Z
+85.00,-1.45,-0.27,-8.71
+temperature, X, Y, Z
+85.00,-1.69,-0.75,-8.98
+temperature, X, Y, Z
+85.00,-0.71,-0.47,-10.08
+temperature, X, Y, Z
+85.00,-2.55,-0.08,-8.24
+temperature, X, Y, Z
+85.00,-1.06,-3.22,-9.22
+temperature, X, Y, Z
+85.00,-1.49,-2.39,-8.51
+temperature, X, Y, Z
+85.00,-1.65,0.63,-7.96
+temperature, X, Y, Z
+85.00,-0.78,-0.51,-7.73
+temperature, X, Y, Z
+85.00,-3.77,-0.16,-8.24
+temperature, X, Y, Z
+85.00,-3.96,-0.12,-9.53
+temperature, X, Y, Z
+85.00,-2.24,-2.39,-10.12
+temperature, X, Y, Z
+85.00,-1.84,-2.90,-8.75
+temperature, X, Y, Z
+85.00,-0.63,-1.61,-7.65
+temperature, X, Y, Z
+85.00,-3.33,-1.57,-9.77
+temperature, X, Y, Z
+85.00,-1.37,-1.73,-7.26
+temperature, X, Y, Z
+85.00,-2.16,0.94,-9.18
+temperature, X, Y, Z
+85.00,-3.80,0.63,-7.69
+temperature, X, Y, Z
+85.00,-2.86,0.31,-8.90
+temperature, X, Y, Z
+85.00,-2.28,-1.18,-8.00
+temperature, X, Y, Z
+85.00,-2.47,0.04,-8.47
+temperature, X, Y, Z
+85.00,-3.14,0.31,-6.55
+temperature, X, Y, Z
+85.00,-3.77,0.00,-7.96
+temperature, X, Y, Z
+85.00,-2.51,-2.12,-8.00
+temperature, X, Y, Z
+85.00,-0.75,2.00,-6.94
+temperature, X, Y, Z
+85.00,-2.79,-0.71,-8.83
+temperature, X, Y, Z
+85.00,-2.43,-1.29,-9.34
+temperature, X, Y, Z
+85.00,-3.61,-2.51,-10.08
+temperature, X, Y, Z
+85.00,-3.57,-0.08,-8.36
+temperature, X, Y, Z
+85.00,-2.12,-1.88,-7.26
+temperature, X, Y, Z
+85.00,-0.51,-2.51,-8.28
+temperature, X, Y, Z
+85.00,-1.33,-1.22,-8.16
+temperature, X, Y, Z
+85.00,-1.65,-2.55,-9.41
+temperature, X, Y, Z
+85.00,-1.10,-1.41,-8.63
+temperature, X, Y, Z
+85.00,-2.51,-1.84,-7.61
+temperature, X, Y, Z
+85.00,-1.61,-0.59,-7.81
+temperature, X, Y, Z
+85.00,-2.16,-0.94,-8.75
+temperature, X, Y, Z
+85.00,-2.47,-0.35,-8.00
+temperature, X, Y, Z
+85.00,-3.30,-2.00,-6.67
+temperature, X, Y, Z
+85.00,-0.43,1.02,-6.86
+temperature, X, Y, Z
+85.00,-1.37,-0.12,-9.65
+temperature, X, Y, Z
+85.00,-3.30,0.27,-8.67
+temperature, X, Y, Z
+85.00,-3.77,-0.90,-9.49
+temperature, X, Y, Z
+85.00,-1.29,-0.55,-8.28
+temperature, X, Y, Z
+85.00,-2.98,-1.57,-7.61
+temperature, X, Y, Z
+85.00,-2.86,1.45,-8.47
+temperature, X, Y, Z
+85.00,-1.61,-2.86,-9.69
+temperature, X, Y, Z
+85.00,-3.10,-2.43,-8.98
+temperature, X, Y, Z
+85.00,-2.55,-0.71,-8.08
+temperature, X, Y, Z
+85.00,-4.51,0.04,-7.45
+temperature, X, Y, Z
+85.00,-1.88,-1.65,-9.34
+temperature, X, Y, Z
+85.00,-2.47,-0.20,-8.08
+temperature, X, Y, Z
+85.00,0.00,1.10,-7.14
+temperature, X, Y, Z
+85.00,-2.08,0.00,-7.53
+temperature, X, Y, Z
+85.00,-1.96,-0.86,-8.20
+temperature, X, Y, Z
+85.00,-1.92,-0.94,-8.43
+temperature, X, Y, Z
+85.00,-2.43,0.63,-8.36
+temperature, X, Y, Z
+85.00,-1.92,-1.69,-8.00
+temperature, X, Y, Z
+85.00,-1.49,0.39,-8.90
+temperature, X, Y, Z
+85.00,-2.00,-0.39,-7.77
+temperature, X, Y, Z
+85.00,-3.10,-0.71,-9.34
+temperature, X, Y, Z
+85.00,-2.28,-0.75,-8.63
+temperature, X, Y, Z
+85.00,-1.26,-0.43,-8.79
+temperature, X, Y, Z
+85.00,-1.49,-0.59,-8.79
+temperature, X, Y, Z
+85.00,1.73,-1.02,-7.57
+temperature, X, Y, Z
+85.00,-2.16,0.63,-8.87
+temperature, X, Y, Z
+85.00,-2.55,0.08,-9.41
+temperature, X, Y, Z
+85.00,-2.35,0.04,-7.65
+temperature, X, Y, Z
+85.00,-2.75,0.67,-9.06
+temperature, X, Y, Z
+85.00,-2.04,0.27,-7.53
+temperature, X, Y, Z
+85.00,-1.29,-0.24,-8.90
+temperature, X, Y, Z
+85.00,-4.86,-1.80,-9.10
+temperature, X, Y, Z
+85.00,-1.88,1.33,-7.69
+temperature, X, Y, Z
+85.00,-0.86,-1.45,-8.67
+temperature, X, Y, Z
+85.00,-3.84,-2.90,-8.67
+temperature, X, Y, Z
+85.00,-2.16,-1.92,-8.20
+temperature, X, Y, Z
+85.00,-1.53,-1.53,-7.41
+temperature, X, Y, Z
+85.00,-2.82,-1.33,-7.69
+temperature, X, Y, Z
+85.00,-3.69,-4.08,-8.39
+temperature, X, Y, Z
+85.00,-1.57,0.67,-9.69
+temperature, X, Y, Z
+85.00,-4.67,-1.41,-9.69
+temperature, X, Y, Z
+85.00,-0.04,0.55,-8.16
+temperature, X, Y, Z
+85.00,-1.84,-0.20,-7.88
+temperature, X, Y, Z
+85.00,-1.22,-0.78,-8.51
+temperature, X, Y, Z
+85.00,0.63,0.00,-7.14
+temperature, X, Y, Z
+85.00,-3.33,-2.04,-9.85
+temperature, X, Y, Z
+85.00,-1.33,-1.49,-8.63
+temperature, X, Y, Z
+85.00,-3.10,-2.47,-8.04
+temperature, X, Y, Z
+85.00,-3.37,-1.61,-7.18
+temperature, X, Y, Z
+85.00,-0.67,-1.88,-8.16
+temperature, X, Y, Z
+85.00,-3.41,0.00,-8.83
+temperature, X, Y, Z
+85.00,-2.59,1.92,-10.16
+temperature, X, Y, Z
+85.00,-3.33,-0.35,-8.83
+temperature, X, Y, Z
+85.00,-2.71,-1.61,-8.32
+temperature, X, Y, Z
+85.00,-2.63,0.00,-7.69
+temperature, X, Y, Z
+85.00,-3.49,-1.22,-9.57
+temperature, X, Y, Z
+85.00,-0.86,0.39,-8.59
+temperature, X, Y, Z
+85.00,-1.41,-0.24,-7.26
+temperature, X, Y, Z
+85.00,-5.45,-1.10,-8.36
+temperature, X, Y, Z
+85.00,-1.45,-0.20,-8.98
+temperature, X, Y, Z
+85.00,-1.57,-2.55,-7.77
+temperature, X, Y, Z
+85.00,-2.98,-0.98,-8.20
+temperature, X, Y, Z
+85.00,-1.65,-1.96,-8.90
+temperature, X, Y, Z
+85.00,0.00,0.31,-7.69
+temperature, X, Y, Z
+85.00,-0.90,-0.90,-8.16
+temperature, X, Y, Z
+85.00,-2.31,-1.33,-7.85
+temperature, X, Y, Z
+85.00,-0.47,1.22,-9.53
+temperature, X, Y, Z
+85.00,-3.06,-1.53,-7.53
+temperature, X, Y, Z
+85.00,-1.53,0.94,-8.32
+temperature, X, Y, Z
+85.00,-2.31,0.04,-7.85
+temperature, X, Y, Z
+85.00,-3.10,-2.24,-8.20
+temperature, X, Y, Z
+85.00,-0.35,-1.22,-7.10
+temperature, X, Y, Z
+85.00,-1.61,-2.55,-6.63
+temperature, X, Y, Z
+85.00,-2.24,0.47,-7.30
+temperature, X, Y, Z
+85.00,-2.28,-1.80,-8.36
+temperature, X, Y, Z
+85.00,-1.33,-2.79,-8.39
+temperature, X, Y, Z
+85.00,-2.00,0.04,-11.14
+temperature, X, Y, Z
+85.00,-2.43,0.16,-8.20
+temperature, X, Y, Z
+85.00,-2.28,0.75,-8.47
+temperature, X, Y, Z
+85.00,-1.26,-1.88,-6.98
+temperature, X, Y, Z
+85.00,-2.47,-2.59,-6.90
+temperature, X, Y, Z
+85.00,-2.31,-2.39,-9.18
+temperature, X, Y, Z
+85.00,-2.90,-2.31,-8.47
+temperature, X, Y, Z
+85.00,-2.20,-3.10,-7.65
+temperature, X, Y, Z
+85.00,-1.45,-0.12,-8.63
+temperature, X, Y, Z
+85.00,-1.53,-0.04,-8.55
+temperature, X, Y, Z
+85.00,-3.22,-1.18,-7.53
+temperature, X, Y, Z
+85.00,-1.84,-1.18,-6.94
+temperature, X, Y, Z
+85.00,-3.30,-3.18,-8.98
+temperature, X, Y, Z
+85.00,-2.28,-1.57,-8.28
+temperature, X, Y, Z
+85.00,-3.96,-2.63,-7.73
+temperature, X, Y, Z
+85.00,-3.37,-1.37,-9.02
+temperature, X, Y, Z
+85.00,-0.75,-1.22,-9.18
+temperature, X, Y, Z
+85.00,-3.30,-2.35,-6.63
+temperature, X, Y, Z
+85.00,-2.35,-1.33,-8.47
+temperature, X, Y, Z
+85.00,-2.04,-0.98,-8.32
+temperature, X, Y, Z
+85.00,-3.45,-0.86,-10.28
+temperature, X, Y, Z
+85.00,-3.22,-1.41,-8.59
+temperature, X, Y, Z
+85.00,-5.22,-1.57,-6.71
+temperature, X, Y, Z
+85.00,-2.59,-1.37,-8.20
+temperature, X, Y, Z
+85.00,-3.69,-1.69,-8.00
+temperature, X, Y, Z
+85.00,-2.43,-0.12,-8.04
+temperature, X, Y, Z
+85.00,-1.22,-1.57,-9.85
+temperature, X, Y, Z
+85.00,-0.67,1.29,-8.63
+temperature, X, Y, Z
+85.00,-1.37,-1.10,-7.53
+temperature, X, Y, Z
+85.00,-2.16,-2.00,-7.65
+temperature, X, Y, Z
+85.00,-1.29,-0.47,-8.04
+temperature, X, Y, Z
+85.00,-1.33,0.63,-9.65
+temperature, X, Y, Z
+85.00,-2.75,-0.55,-9.49
+temperature, X, Y, Z
+85.00,-3.37,-2.35,-7.77
+temperature, X, Y, Z
+85.00,-2.24,-1.02,-8.32
+temperature, X, Y, Z
+85.00,-2.00,-0.82,-8.24
+temperature, X, Y, Z
+85.00,-3.30,-0.63,-9.10
+temperature, X, Y, Z
+85.00,-3.06,-0.51,-10.00
+temperature, X, Y, Z
+85.00,-2.39,-0.78,-8.71
+temperature, X, Y, Z
+85.00,-2.59,-3.02,-7.81
+temperature, X, Y, Z
+85.00,-2.67,-2.55,-8.90
+temperature, X, Y, Z
+85.00,-1.88,-1.77,-7.37
+temperature, X, Y, Z
+85.00,-0.71,-0.78,-9.53
+temperature, X, Y, Z
+85.00,-1.65,-1.18,-8.67
+temperature, X, Y, Z
+85.00,-1.02,-1.33,-8.51
+temperature, X, Y, Z
+85.00,-0.55,-0.82,-8.08
+temperature, X, Y, Z
+85.00,-2.35,0.00,-8.20
+temperature, X, Y, Z
+85.00,-3.84,-1.22,-7.88
+temperature, X, Y, Z
+85.00,-3.37,-1.88,-6.75
+temperature, X, Y, Z
+85.00,-3.69,-0.75,-7.65
+temperature, X, Y, Z
+85.00,-2.82,-0.94,-7.37
+temperature, X, Y, Z
+85.00,-2.16,-1.96,-12.16
+temperature, X, Y, Z
+85.00,-2.31,0.20,-9.26
+temperature, X, Y, Z
+85.00,-1.80,-1.18,-9.77
+temperature, X, Y, Z
+85.00,-2.04,-1.92,-9.45
+temperature, X, Y, Z
+85.00,-2.16,-0.31,-9.41
+temperature, X, Y, Z
+85.00,-2.79,-0.63,-9.73
+temperature, X, Y, Z
+85.00,-0.04,-0.31,-8.63
+temperature, X, Y, Z
+85.00,-2.51,-1.77,-9.96
+temperature, X, Y, Z
+85.00,-0.59,-0.55,-8.67
+temperature, X, Y, Z
+85.00,-1.57,-0.94,-6.59
+temperature, X, Y, Z
+85.00,-2.43,0.24,-9.06
+temperature, X, Y, Z
+85.00,-2.31,-0.04,-7.92
+temperature, X, Y, Z
+85.00,-4.12,-1.61,-7.96
+temperature, X, Y, Z
+85.00,0.04,-0.04,-8.12
+temperature, X, Y, Z
+85.00,-2.59,-0.86,-9.65
+temperature, X, Y, Z
+85.00,-0.75,-0.86,-12.83
+temperature, X, Y, Z
+85.00,-1.06,-2.12,-8.87
+temperature, X, Y, Z
+85.00,-4.55,-1.33,-7.49
+temperature, X, Y, Z
+85.00,-1.73,-0.63,-7.69
+temperature, X, Y, Z
+85.00,-1.26,0.31,-7.10
+temperature, X, Y, Z
+85.00,-1.61,-0.98,-9.34
+temperature, X, Y, Z
+85.00,-2.39,-0.75,-7.92
+temperature, X, Y, Z
+85.00,-1.14,-0.75,-8.63
+temperature, X, Y, Z
+85.00,-0.94,-0.20,-8.59
+temperature, X, Y, Z
+85.00,-2.04,-0.24,-9.26
+temperature, X, Y, Z
+85.00,-2.08,-1.61,-8.32
+temperature, X, Y, Z
+85.00,-2.90,0.24,-8.75
+temperature, X, Y, Z
+85.00,-3.49,-0.31,-9.61
+temperature, X, Y, Z
+85.00,-2.90,-1.88,-8.75
+temperature, X, Y, Z
+85.00,-2.59,-1.41,-8.28
+temperature, X, Y, Z
+85.00,-2.79,-0.51,-7.65
+temperature, X, Y, Z
+85.00,-2.47,-0.98,-8.94
+temperature, X, Y, Z
+85.00,-1.49,0.04,-7.69
+temperature, X, Y, Z
+85.00,0.04,-0.59,-8.55
+temperature, X, Y, Z
+85.00,-3.14,-0.59,-8.87
+temperature, X, Y, Z
+85.00,-2.16,-1.45,-10.08
+temperature, X, Y, Z
+85.00,-1.49,-0.98,-8.16
+temperature, X, Y, Z
+85.00,-3.57,-1.88,-9.53
+temperature, X, Y, Z
+85.00,-0.67,-0.43,-8.63
+temperature, X, Y, Z
+85.00,-2.55,-1.57,-9.06
+temperature, X, Y, Z
+85.00,-1.06,0.31,-7.81
+temperature, X, Y, Z
+85.00,-2.20,-0.43,-7.57
+temperature, X, Y, Z
+85.00,-3.53,-1.29,-6.75
+temperature, X, Y, Z
+85.00,-2.86,-1.65,-7.53
+temperature, X, Y, Z
+85.00,-2.00,0.16,-9.22
+temperature, X, Y, Z
+85.00,-1.22,-1.18,-8.67
+temperature, X, Y, Z
+85.00,-2.98,-0.63,-8.87
+temperature, X, Y, Z
+85.00,-3.96,-2.55,-7.69
+temperature, X, Y, Z
+85.00,-0.67,0.51,-9.34
+temperature, X, Y, Z
+85.00,-3.18,-3.37,-8.63
+temperature, X, Y, Z
+85.00,-2.55,-3.18,-8.20
+temperature, X, Y, Z
+85.00,-2.59,-1.73,-7.57
+temperature, X, Y, Z
+85.00,-1.88,0.04,-7.34
+temperature, X, Y, Z
+85.00,-1.80,-1.57,-8.47
+temperature, X, Y, Z
+85.00,-1.84,-1.80,-9.38
+temperature, X, Y, Z
+85.00,-1.57,-1.69,-9.45
+temperature, X, Y, Z
+85.00,-3.41,-1.41,-9.02
+temperature, X, Y, Z
+85.00,-3.33,-2.55,-8.16
+temperature, X, Y, Z
+85.00,-2.79,-1.22,-8.24
+temperature, X, Y, Z
+85.00,-1.53,-0.43,-7.57
+temperature, X, Y, Z
+85.00,-2.79,0.00,-7.81
+temperature, X, Y, Z
+85.00,-2.12,-1.02,-8.71
+temperature, X, Y, Z
+85.00,-3.45,-2.51,-7.06
+temperature, X, Y, Z
+85.00,-2.47,-2.12,-8.00
+temperature, X, Y, Z
+85.00,-2.04,-3.26,-7.65
+temperature, X, Y, Z
+85.00,-2.31,0.00,-9.65
+temperature, X, Y, Z
+85.00,-2.59,-2.20,-9.14
+temperature, X, Y, Z
+85.00,-2.43,-0.35,-7.92
+temperature, X, Y, Z
+85.00,-2.31,-1.96,-8.59
+temperature, X, Y, Z
+85.00,-2.47,0.63,-8.20
+temperature, X, Y, Z
+85.00,-2.67,-1.22,-7.10
+temperature, X, Y, Z
+85.00,-3.18,-3.41,-8.79
+temperature, X, Y, Z
+85.00,-0.94,-0.16,-7.88
+temperature, X, Y, Z
+85.00,-1.33,1.14,-9.34
+temperature, X, Y, Z
+85.00,-2.67,-1.29,-6.94
+temperature, X, Y, Z
+85.00,-0.71,-1.10,-6.98
+temperature, X, Y, Z
+85.00,-1.06,0.47,-9.30
+temperature, X, Y, Z
+85.00,-2.47,-1.65,-8.36
+temperature, X, Y, Z
+85.00,-2.75,-0.71,-8.20
+temperature, X, Y, Z
+85.00,-3.18,-0.90,-8.04
+temperature, X, Y, Z
+85.00,-0.98,-0.39,-7.57
+temperature, X, Y, Z
+85.00,-2.20,-0.47,-8.39
+temperature, X, Y, Z
+85.00,-2.51,0.78,-7.45
+temperature, X, Y, Z
+85.00,-3.02,-0.31,-9.85
+temperature, X, Y, Z
+85.00,-2.86,-2.98,-8.32
+temperature, X, Y, Z
+85.00,-2.55,-1.53,-7.26
+temperature, X, Y, Z
+85.00,-2.47,-0.59,-8.87
+temperature, X, Y, Z
+85.00,-1.49,-0.39,-8.36
+temperature, X, Y, Z
+85.00,-1.80,0.71,-8.12
+temperature, X, Y, Z
+85.00,-2.28,-0.27,-7.53
+temperature, X, Y, Z
+85.00,-1.41,0.27,-8.47
+temperature, X, Y, Z
+85.00,-2.63,-0.59,-8.71
+temperature, X, Y, Z
+85.00,-1.53,-3.65,-8.16
+temperature, X, Y, Z
+85.00,-2.67,-1.18,-7.85
+temperature, X, Y, Z
+85.00,-0.82,-2.59,-7.30
+temperature, X, Y, Z
+85.00,-2.59,-0.24,-7.45
+temperature, X, Y, Z
+85.00,-2.67,-2.08,-9.14
+temperature, X, Y, Z
+85.00,-3.45,-2.39,-8.63
+temperature, X, Y, Z
+85.00,-1.41,-0.59,-9.18
+temperature, X, Y, Z
+85.00,-1.84,-0.86,-7.30
+temperature, X, Y, Z
+85.00,-2.28,-0.78,-6.90
+temperature, X, Y, Z
+85.00,-1.80,-2.67,-7.53
+temperature, X, Y, Z
+85.00,-3.18,0.16,-8.16
+temperature, X, Y, Z
+85.00,-1.77,-1.73,-8.24
+temperature, X, Y, Z
+85.00,-2.51,-1.41,-9.38
+temperature, X, Y, Z
+85.00,-0.94,-0.51,-9.18
+temperature, X, Y, Z
+85.00,-1.96,-0.67,-9.22
+temperature, X, Y, Z
+85.00,-2.08,-1.06,-8.24
+temperature, X, Y, Z
+85.00,-2.20,-1.45,-6.83
+temperature, X, Y, Z
+85.00,-3.18,-1.29,-8.71
+temperature, X, Y, Z
+85.00,-0.94,-3.10,-8.00
+temperature, X, Y, Z
+85.00,-2.67,0.08,-8.20
+temperature, X, Y, Z
+85.00,-1.57,-2.59,-8.67
+temperature, X, Y, Z
+85.00,-0.27,-2.47,-7.77
+temperature, X, Y, Z
+85.00,-2.43,-0.94,-8.55
+temperature, X, Y, Z
+85.00,-0.51,-2.24,-9.10
+temperature, X, Y, Z
+85.00,-2.00,-0.47,-8.83
+temperature, X, Y, Z
+85.00,-2.16,1.18,-9.26
+temperature, X, Y, Z
+85.00,-4.12,-2.43,-8.87
+temperature, X, Y, Z
+85.00,-1.96,-3.26,-7.85
+temperature, X, Y, Z
+85.00,-2.08,0.04,-8.36
+temperature, X, Y, Z
+85.00,-1.29,-1.18,-8.67
+temperature, X, Y, Z
+85.00,1.26,-3.06,-7.10
+temperature, X, Y, Z
+85.00,-2.35,0.51,-7.65
+temperature, X, Y, Z
+85.00,-2.35,1.53,-8.24
+temperature, X, Y, Z
+85.00,-3.06,0.16,-8.71
+temperature, X, Y, Z
+85.00,-2.43,-0.43,-9.41
+temperature, X, Y, Z
+85.00,-1.73,-2.51,-7.92
+temperature, X, Y, Z
+85.00,-2.12,-1.57,-7.92
+temperature, X, Y, Z
+85.00,-2.00,-2.04,-8.71
+temperature, X, Y, Z
+85.00,-1.29,-3.41,-8.12
+temperature, X, Y, Z
+85.00,-1.92,-1.33,-8.67
+temperature, X, Y, Z
+85.00,-3.88,-1.84,-6.59
+temperature, X, Y, Z
+85.00,-2.16,-2.35,-8.43
+temperature, X, Y, Z
+85.00,-2.04,-0.59,-8.24
+temperature, X, Y, Z
+85.00,-2.86,-1.73,-7.81
+temperature, X, Y, Z
+85.00,-1.49,0.55,-9.06
+temperature, X, Y, Z
+85.00,-1.96,-0.94,-7.45
+temperature, X, Y, Z
+85.00,-2.08,0.20,-10.32
+temperature, X, Y, Z
+85.00,-2.47,-2.55,-8.59
+temperature, X, Y, Z
+85.00,-3.88,-1.92,-7.49
+temperature, X, Y, Z
+85.00,-2.55,-1.80,-9.89
+temperature, X, Y, Z
+85.00,-1.77,0.86,-8.71
+temperature, X, Y, Z
+85.00,-2.75,-0.71,-7.85
+temperature, X, Y, Z
+85.00,-2.63,-0.78,-8.28
+temperature, X, Y, Z
+85.00,-3.37,-0.47,-7.65
+temperature, X, Y, Z
+85.00,-3.22,-3.30,-9.02
+temperature, X, Y, Z
+85.00,-1.06,-1.96,-9.06
+temperature, X, Y, Z
+85.00,-1.10,-0.94,-7.57
+temperature, X, Y, Z
+85.00,-2.75,-2.16,-7.53
+temperature, X, Y, Z
+85.00,-1.77,-0.47,-7.45
+temperature, X, Y, Z
+85.00,-2.79,-1.57,-7.49
+temperature, X, Y, Z
+85.00,-2.04,-1.73,-7.81
+temperature, X, Y, Z
+85.00,-2.94,-1.88,-8.83
+temperature, X, Y, Z
+85.00,-2.35,-0.47,-8.47
+temperature, X, Y, Z
+85.00,-2.31,-1.53,-7.57
+temperature, X, Y, Z
+85.00,-1.80,-1.02,-8.63
+temperature, X, Y, Z
+85.00,-3.53,-0.63,-7.57
+temperature, X, Y, Z
+85.00,-1.92,1.02,-8.43
+temperature, X, Y, Z
+85.00,-1.33,-0.63,-8.71
+temperature, X, Y, Z
+85.00,-2.67,-2.55,-9.77
+temperature, X, Y, Z
+85.00,-2.31,-1.73,-7.57
+temperature, X, Y, Z
+85.00,-1.84,0.00,-10.87
+temperature, X, Y, Z
+85.00,-2.00,-0.98,-7.57
+temperature, X, Y, Z
+85.00,-2.51,-0.94,-8.47
+temperature, X, Y, Z
+85.00,-2.16,-1.77,-7.85
+temperature, X, Y, Z
+85.00,-2.24,-1.29,-8.51
+temperature, X, Y, Z
+85.00,-2.31,-1.57,-7.26
+temperature, X, Y, Z
+85.00,-2.43,-3.02,-9.18
+temperature, X, Y, Z
+85.00,-2.08,-0.24,-8.32
+temperature, X, Y, Z
+85.00,-3.02,-1.10,-8.16
+temperature, X, Y, Z
+85.00,-0.67,-3.14,-7.49
+temperature, X, Y, Z
+85.00,-2.79,0.67,-9.65
+temperature, X, Y, Z
+85.00,-2.39,0.20,-7.96
+temperature, X, Y, Z
+85.00,-3.06,-1.92,-8.04
+temperature, X, Y, Z
+85.00,-0.75,-2.20,-8.28
+temperature, X, Y, Z
+85.00,-2.12,-0.82,-8.59
+temperature, X, Y, Z
+85.00,-1.61,-2.08,-9.22
+temperature, X, Y, Z
+85.00,-1.45,-1.88,-9.65
+temperature, X, Y, Z
+85.00,-1.69,-1.49,-8.36
+temperature, X, Y, Z
+85.00,-1.53,-1.73,-8.94
+temperature, X, Y, Z
+85.00,-2.31,-0.59,-8.79
+temperature, X, Y, Z
+85.00,-1.02,-1.06,-8.20
+temperature, X, Y, Z
+85.00,-2.28,1.37,-8.51
+temperature, X, Y, Z
+85.00,-1.37,1.29,-9.45
+temperature, X, Y, Z
+85.00,-1.37,-3.84,-7.45
+temperature, X, Y, Z
+85.00,-2.31,-1.33,-9.06
+temperature, X, Y, Z
+85.00,-2.51,-1.73,-8.51
+temperature, X, Y, Z
+85.00,-3.14,-3.57,-7.73
+temperature, X, Y, Z
+85.00,-2.59,-1.26,-8.55
+temperature, X, Y, Z
+85.00,-1.45,-2.90,-7.81
+temperature, X, Y, Z
+85.00,-2.67,-0.39,-8.71
+temperature, X, Y, Z
+85.00,-2.00,0.47,-8.98
+temperature, X, Y, Z
+85.00,-1.57,0.55,-8.55
+temperature, X, Y, Z
+85.00,-2.28,-1.53,-9.14
+temperature, X, Y, Z
+85.00,-2.20,0.00,-9.18
+temperature, X, Y, Z
+85.00,-0.59,0.04,-7.61
+temperature, X, Y, Z
+85.00,-2.82,-1.57,-8.71
+temperature, X, Y, Z
+85.00,-1.10,-1.77,-7.26
+temperature, X, Y, Z
+85.00,-2.28,-1.26,-10.04
+temperature, X, Y, Z
+85.00,-0.59,-2.51,-8.39
+temperature, X, Y, Z
+85.00,-1.41,-0.63,-7.53
+temperature, X, Y, Z
+85.00,-3.06,-0.04,-8.71
+temperature, X, Y, Z
+85.00,-2.00,-1.41,-7.61
+temperature, X, Y, Z
+85.00,-1.14,-0.82,-9.02
+temperature, X, Y, Z
+85.00,-2.47,-0.98,-8.32
+temperature, X, Y, Z
+85.00,-2.67,2.04,-10.32
+temperature, X, Y, Z
+85.00,-3.14,-1.45,-9.02
+temperature, X, Y, Z
+85.00,-1.33,-2.08,-8.00
+temperature, X, Y, Z
+85.00,-3.18,-2.47,-9.30
+temperature, X, Y, Z
+85.00,-1.26,-1.73,-7.45
+temperature, X, Y, Z
+85.00,-1.53,-0.16,-7.73
+temperature, X, Y, Z
+85.00,-1.02,-1.22,-7.92
+temperature, X, Y, Z
+85.00,-2.04,-0.55,-7.85
+temperature, X, Y, Z
+85.00,-2.82,-2.28,-9.02
+temperature, X, Y, Z
+85.00,-2.08,-0.39,-7.96
+temperature, X, Y, Z
+85.00,-2.86,-1.92,-8.83
+temperature, X, Y, Z
+85.00,-3.10,-0.86,-9.14
+temperature, X, Y, Z
+85.00,-1.80,-0.98,-7.96
+temperature, X, Y, Z
+85.00,-2.43,0.59,-9.34
+temperature, X, Y, Z
+85.00,-2.47,-0.98,-9.85
+temperature, X, Y, Z
+85.00,-2.86,-1.06,-8.47
+temperature, X, Y, Z
+85.00,-2.20,-0.71,-8.83
+temperature, X, Y, Z
+85.00,-4.04,-0.71,-8.71
+temperature, X, Y, Z
+85.00,-2.59,-1.84,-9.92
+temperature, X, Y, Z
+85.00,-0.90,0.04,-9.14
+temperature, X, Y, Z
+85.00,-0.55,-0.71,-9.85
+temperature, X, Y, Z
+85.00,-2.63,-0.90,-8.16
+temperature, X, Y, Z
+85.00,-2.71,-1.96,-6.43
+temperature, X, Y, Z
+85.00,-2.47,-0.59,-9.57
+temperature, X, Y, Z
+85.00,-3.88,-2.55,-8.59
+temperature, X, Y, Z
+85.00,-2.98,-0.98,-9.10
+temperature, X, Y, Z
+85.00,-2.71,-2.75,-7.88
+temperature, X, Y, Z
+85.00,-2.98,-1.53,-6.79
+temperature, X, Y, Z
+85.00,-2.39,-2.39,-7.96
+temperature, X, Y, Z
+85.00,-3.96,-0.55,-8.87
+temperature, X, Y, Z
+85.00,-1.96,-1.26,-8.36
+temperature, X, Y, Z
+85.00,-2.51,0.24,-8.63
+temperature, X, Y, Z
+85.00,-1.77,-0.08,-8.59
+temperature, X, Y, Z
+85.00,-3.10,-0.59,-8.59
+temperature, X, Y, Z
+85.00,-1.18,-1.57,-7.22
+temperature, X, Y, Z
+85.00,-4.16,-0.98,-8.71
+temperature, X, Y, Z
+85.00,-2.39,-0.86,-8.98
+temperature, X, Y, Z
+85.00,-1.22,-0.71,-9.77
+temperature, X, Y, Z
+85.00,-3.06,0.43,-9.14
+temperature, X, Y, Z
+85.00,-1.77,-2.47,-9.65
+temperature, X, Y, Z
+85.00,-0.31,-0.31,-9.57
+temperature, X, Y, Z
+85.00,-1.10,-0.71,-9.85
+temperature, X, Y, Z
+85.00,-3.65,-1.26,-8.24
+temperature, X, Y, Z
+85.00,-0.98,0.08,-7.92
+temperature, X, Y, Z
+85.00,-2.94,-0.75,-6.98
+temperature, X, Y, Z
+85.00,-1.14,-0.98,-7.88
+temperature, X, Y, Z
+85.00,-0.12,-0.47,-9.10
+temperature, X, Y, Z
+85.00,-3.69,-1.37,-7.77
+temperature, X, Y, Z
+85.00,-2.12,-1.92,-7.57
+temperature, X, Y, Z
+85.00,-3.30,-0.47,-9.06
+temperature, X, Y, Z
+85.00,-3.80,-1.41,-8.12
+temperature, X, Y, Z
+85.00,-2.47,-0.43,-8.20
+temperature, X, Y, Z
+85.00,-0.90,-0.63,-9.77
+temperature, X, Y, Z
+85.00,-0.35,-1.92,-8.20
+temperature, X, Y, Z
+85.00,-3.69,-0.59,-7.96
+temperature, X, Y, Z
+85.00,-2.08,-1.57,-9.53
+temperature, X, Y, Z
+85.00,-2.35,0.31,-8.94
+temperature, X, Y, Z
+85.00,-2.71,-2.16,-7.53
+temperature, X, Y, Z
+85.00,-1.92,-0.78,-7.77
+temperature, X, Y, Z
+85.00,-2.20,-1.73,-9.30
+temperature, X, Y, Z
+85.00,-1.29,-1.57,-7.65
+temperature, X, Y, Z
+85.00,-2.39,-2.43,-8.71
+temperature, X, Y, Z
+85.00,-2.51,-1.57,-8.43
+temperature, X, Y, Z
+85.00,-2.39,-0.08,-8.43
+temperature, X, Y, Z
+85.00,-2.63,-0.82,-8.87
+temperature, X, Y, Z
+85.00,-1.33,0.27,-9.10
+temperature, X, Y, Z
+85.00,-2.90,-0.35,-7.61
+temperature, X, Y, Z
+85.00,-1.65,-1.14,-8.90
+temperature, X, Y, Z
+85.00,-1.22,-0.59,-8.75
+temperature, X, Y, Z
+85.00,-3.69,-1.92,-8.75
+temperature, X, Y, Z
+85.00,-1.65,-1.73,-9.22
+temperature, X, Y, Z
+85.00,-4.59,-1.18,-8.08
+temperature, X, Y, Z
+85.00,-2.86,-1.26,-9.45
+temperature, X, Y, Z
+85.00,-1.61,-1.22,-8.39
+temperature, X, Y, Z
+85.00,-2.04,0.24,-9.41
+temperature, X, Y, Z
+85.00,-3.37,-0.39,-7.53
+temperature, X, Y, Z
+85.00,-2.31,-0.98,-8.16
+temperature, X, Y, Z
+85.00,0.16,-2.35,-9.61
+temperature, X, Y, Z
+85.00,-1.84,-2.08,-8.51
+temperature, X, Y, Z
+85.00,-2.43,-0.08,-10.00
+temperature, X, Y, Z
+85.00,-0.16,-1.37,-8.51
+temperature, X, Y, Z
+85.00,-3.33,-0.08,-7.41
+temperature, X, Y, Z
+85.00,-2.12,-1.77,-9.30
+temperature, X, Y, Z
+85.00,-1.69,-0.98,-7.37
+temperature, X, Y, Z
+85.00,-3.69,-2.12,-8.12
+temperature, X, Y, Z
+85.00,-2.86,-1.02,-7.81
+temperature, X, Y, Z
+85.00,-0.20,-1.02,-8.51
+temperature, X, Y, Z
+85.00,-2.20,-1.65,-7.81
+temperature, X, Y, Z
+85.00,-2.20,-0.55,-8.28
+temperature, X, Y, Z
+85.00,-2.28,-1.53,-8.94
+temperature, X, Y, Z
+85.00,-4.16,-2.24,-9.45
+temperature, X, Y, Z
+85.00,-3.45,-2.04,-7.61
+temperature, X, Y, Z
+85.00,-1.88,-2.51,-9.92
+temperature, X, Y, Z
+85.00,-2.51,-0.20,-9.30
+temperature, X, Y, Z
+85.00,-2.39,-1.06,-9.14
+temperature, X, Y, Z
+85.00,-3.77,1.41,-8.39
+temperature, X, Y, Z
+85.00,-0.71,-1.88,-9.14
+temperature, X, Y, Z
+85.00,-2.82,-0.86,-7.22
+temperature, X, Y, Z
+85.00,-3.65,-0.78,-8.83
+temperature, X, Y, Z
+85.00,-1.37,-1.18,-7.81
+temperature, X, Y, Z
+85.00,-2.63,-0.24,-9.02
+temperature, X, Y, Z
+85.00,-2.47,-1.69,-8.36
+temperature, X, Y, Z
+85.00,-2.86,-0.27,-8.28
+temperature, X, Y, Z
+85.00,-0.67,-0.47,-8.71
+temperature, X, Y, Z
+85.00,-2.51,-0.35,-7.45
+temperature, X, Y, Z
+85.00,-2.35,-0.75,-9.06
+temperature, X, Y, Z
+85.00,-3.61,-0.51,-7.06
+temperature, X, Y, Z
+85.00,-2.51,-1.41,-7.96
+temperature, X, Y, Z
+85.00,-2.04,-0.35,-7.37
+temperature, X, Y, Z
+85.00,-3.18,-1.26,-8.94
+temperature, X, Y, Z
+85.00,-1.29,-2.16,-9.96
+temperature, X, Y, Z
+85.00,-3.45,-0.55,-8.39
+temperature, X, Y, Z
+85.00,-1.45,-0.20,-9.49
+temperature, X, Y, Z
+85.00,-2.35,-1.77,-7.73
+temperature, X, Y, Z
+85.00,-0.75,-0.78,-9.26
+temperature, X, Y, Z
+85.00,0.55,-0.39,-10.12
+temperature, X, Y, Z
+85.00,-1.80,-0.35,-8.90
+temperature, X, Y, Z
+85.00,-1.29,-1.53,-10.08
+temperature, X, Y, Z
+85.00,-0.98,-0.51,-8.32
+temperature, X, Y, Z
+85.00,-3.77,-1.06,-9.38
+temperature, X, Y, Z
+85.00,-0.98,-0.67,-7.45
+temperature, X, Y, Z
+85.00,-3.53,0.31,-7.96
+temperature, X, Y, Z
+85.00,-2.79,-0.98,-8.20
+temperature, X, Y, Z
+85.00,-3.26,-1.26,-7.85
+temperature, X, Y, Z
+85.00,-1.80,-0.82,-8.71
+temperature, X, Y, Z
+85.00,-1.45,-1.29,-9.57
+temperature, X, Y, Z
+85.00,-0.98,-0.51,-10.24
+temperature, X, Y, Z
+85.00,-2.82,0.00,-8.32
+temperature, X, Y, Z
+85.00,-1.61,-0.63,-7.77
+temperature, X, Y, Z
+85.00,-0.51,-1.26,-8.47
+temperature, X, Y, Z
+85.00,-3.53,-1.26,-7.61
+temperature, X, Y, Z
+85.00,-1.77,-0.24,-8.43
+temperature, X, Y, Z
+85.00,-4.00,-0.51,-9.14
+temperature, X, Y, Z
+85.00,-2.00,-0.63,-6.86
+temperature, X, Y, Z
+85.00,-2.63,-0.43,-8.00
+temperature, X, Y, Z
+85.00,-2.94,-0.86,-7.88
+temperature, X, Y, Z
+85.00,-1.37,-1.22,-8.75
+temperature, X, Y, Z
+85.00,-3.06,-0.90,-8.08
+temperature, X, Y, Z
+85.00,-2.16,-0.67,-8.12
+temperature, X, Y, Z
+85.00,-1.41,-0.39,-8.20
+temperature, X, Y, Z
+85.00,-0.12,-0.67,-8.47
+temperature, X, Y, Z
+85.00,-0.67,-1.14,-9.06
+temperature, X, Y, Z
+85.00,-2.90,-1.61,-7.92
+temperature, X, Y, Z
+85.00,-2.75,-0.98,-9.06
+temperature, X, Y, Z
+85.00,-3.06,-1.02,-8.00
+temperature, X, Y, Z
+85.00,-0.75,-1.18,-8.75
+temperature, X, Y, Z
+85.00,-3.37,-0.47,-7.85
+temperature, X, Y, Z
+85.00,-1.73,-0.04,-8.87
+temperature, X, Y, Z
+85.00,-3.96,-0.71,-9.06
+temperature, X, Y, Z
+85.00,-2.98,-0.27,-8.94
+temperature, X, Y, Z
+85.00,-1.92,-1.22,-8.36
+temperature, X, Y, Z
+85.00,-3.06,-0.20,-7.73
+temperature, X, Y, Z
+85.00,-3.41,-2.90,-8.79
+temperature, X, Y, Z
+85.00,-2.94,-0.75,-8.55
+temperature, X, Y, Z
+85.00,-1.37,-0.78,-7.92
+temperature, X, Y, Z
+85.00,-3.41,-1.77,-9.69
+temperature, X, Y, Z
+85.00,-4.28,-0.39,-6.90
+temperature, X, Y, Z
+85.00,-2.86,-0.71,-6.79
+temperature, X, Y, Z
+85.00,-3.84,-1.61,-8.75
+temperature, X, Y, Z
+85.00,-3.26,-1.65,-8.00
+temperature, X, Y, Z
+85.00,-1.53,-0.43,-8.63
+temperature, X, Y, Z
+85.00,-3.69,-0.47,-6.20
+temperature, X, Y, Z
+85.00,-2.47,-0.75,-7.41
+temperature, X, Y, Z
+85.00,-2.47,-2.20,-9.53
+temperature, X, Y, Z
+85.00,-2.31,-0.43,-7.92
+temperature, X, Y, Z
+85.00,-2.16,-1.57,-8.51
+temperature, X, Y, Z
+85.00,-0.51,-0.43,-10.08
+temperature, X, Y, Z
+85.00,-1.69,-1.10,-7.45
+temperature, X, Y, Z
+85.00,-1.14,-0.59,-9.10
+temperature, X, Y, Z
+85.00,-0.47,-0.94,-8.39
+temperature, X, Y, Z
+85.00,-2.59,-0.98,-9.06
+temperature, X, Y, Z
+85.00,-2.28,-1.37,-7.41
+temperature, X, Y, Z
+85.00,-1.10,-0.47,-8.04
+temperature, X, Y, Z
+85.00,-0.55,-1.02,-7.85
+temperature, X, Y, Z
+85.00,-2.16,-0.94,-8.71
+temperature, X, Y, Z
+85.00,-2.04,-0.39,-8.67
+temperature, X, Y, Z
+85.00,-2.55,-0.78,-7.88
+temperature, X, Y, Z
+85.00,-1.37,-1.57,-7.37
+temperature, X, Y, Z
+85.00,-4.24,-1.69,-7.10
+temperature, X, Y, Z
+85.00,-1.33,-0.39,-7.69
+temperature, X, Y, Z
+85.00,-2.82,-1.26,-8.04
+temperature, X, Y, Z
+85.00,-2.59,-1.53,-10.04
+temperature, X, Y, Z
+85.00,-1.96,-1.80,-9.81
+temperature, X, Y, Z
+85.00,-2.24,-1.57,-9.45
+temperature, X, Y, Z
+85.00,-2.98,-0.67,-9.26
+temperature, X, Y, Z
+85.00,-1.37,-1.33,-9.26
+temperature, X, Y, Z
+85.00,-2.31,-0.94,-9.45
+temperature, X, Y, Z
+85.00,-2.35,-0.39,-8.08
+temperature, X, Y, Z
+85.00,-2.51,0.00,-8.36
+temperature, X, Y, Z
+85.00,-3.14,-1.06,-8.08
+temperature, X, Y, Z
+85.00,0.39,-1.18,-9.02
+temperature, X, Y, Z
+85.00,-2.43,-1.22,-8.08
+temperature, X, Y, Z
+85.00,-1.53,-0.27,-8.55
+temperature, X, Y, Z
+85.00,-2.31,0.55,-8.28
+temperature, X, Y, Z
+85.00,-2.98,-0.86,-8.47
+temperature, X, Y, Z
+85.00,-0.20,-0.98,-10.04
+temperature, X, Y, Z
+85.00,-1.69,-1.37,-8.55
+temperature, X, Y, Z
+85.00,-4.04,-0.27,-8.16
+temperature, X, Y, Z
+85.00,-0.94,-0.82,-10.83
+temperature, X, Y, Z
+85.00,-2.00,-1.06,-7.81
+temperature, X, Y, Z
+85.00,-3.73,-1.06,-7.73
+temperature, X, Y, Z
+85.00,-3.33,-0.35,-8.39
+temperature, X, Y, Z
+85.00,-2.39,-1.65,-8.63
+temperature, X, Y, Z
+85.00,-3.14,-0.59,-7.88
+temperature, X, Y, Z
+85.00,-2.43,-0.35,-8.04
+temperature, X, Y, Z
+85.00,-3.69,-1.61,-8.12
+temperature, X, Y, Z
+85.00,-1.45,-1.73,-8.16
+temperature, X, Y, Z
+85.00,-2.51,-1.06,-8.36
+temperature, X, Y, Z
+85.00,-2.43,-1.22,-8.08
+temperature, X, Y, Z
+85.00,-2.94,-0.94,-8.55
+temperature, X, Y, Z
+85.00,-1.57,-1.41,-8.63
+temperature, X, Y, Z
+85.00,-1.14,-0.90,-9.22
+temperature, X, Y, Z
+85.00,-3.10,-0.04,-6.32
+temperature, X, Y, Z
+85.00,-0.67,-1.84,-9.57
+temperature, X, Y, Z
+85.00,-0.20,-2.12,-8.90
+temperature, X, Y, Z
+85.00,-2.08,-1.14,-9.02
+temperature, X, Y, Z
+85.00,-2.04,-1.18,-8.36
+temperature, X, Y, Z
+85.00,-2.47,-0.98,-8.04
+temperature, X, Y, Z
+85.00,-2.47,-0.82,-7.45
+temperature, X, Y, Z
+85.00,-1.69,-0.98,-8.20
+temperature, X, Y, Z
+85.00,-2.20,-0.75,-9.38
+temperature, X, Y, Z
+85.00,-3.41,-0.94,-7.57
+temperature, X, Y, Z
+85.00,-1.53,-0.78,-7.69
+temperature, X, Y, Z
+85.00,-3.06,-0.67,-8.79
+temperature, X, Y, Z
+85.00,-3.06,-0.82,-7.92
+temperature, X, Y, Z
+85.00,-2.04,-1.96,-8.00
+temperature, X, Y, Z
+85.00,-1.14,-0.67,-8.04
+temperature, X, Y, Z
+85.00,-3.37,-1.02,-8.28
+temperature, X, Y, Z
+85.00,-3.88,-1.14,-9.38
+temperature, X, Y, Z
+85.00,-3.26,-1.06,-8.63
+temperature, X, Y, Z
+85.00,-2.00,-0.04,-9.14
+temperature, X, Y, Z
+85.00,-1.29,-1.41,-9.81
+temperature, X, Y, Z
+85.00,-1.26,-1.18,-7.85
+temperature, X, Y, Z
+85.00,-2.47,-0.75,-10.08
+temperature, X, Y, Z
+85.00,-1.45,-0.67,-10.51
+temperature, X, Y, Z
+85.00,-1.49,-0.90,-7.77
+temperature, X, Y, Z
+85.00,-2.75,0.16,-9.57
+temperature, X, Y, Z
+85.00,-0.63,-1.02,-8.67
+temperature, X, Y, Z
+85.00,-2.20,-1.22,-6.79
+temperature, X, Y, Z
+85.00,-4.08,-0.51,-7.02
+temperature, X, Y, Z
+85.00,-2.71,-1.10,-9.14
+temperature, X, Y, Z
+85.00,-2.51,-1.14,-8.20
+temperature, X, Y, Z
+85.00,-1.57,-1.02,-7.96
+temperature, X, Y, Z
+85.00,-3.41,-0.43,-9.45
+temperature, X, Y, Z
+85.00,-0.51,-0.43,-10.32
+temperature, X, Y, Z
+85.00,-2.55,0.12,-9.14
+temperature, X, Y, Z
+85.00,-1.49,-0.86,-7.53
+temperature, X, Y, Z
+85.00,-2.24,-0.47,-9.41
+temperature, X, Y, Z
+85.00,-3.80,-1.14,-8.36
+temperature, X, Y, Z
+85.00,-0.90,-0.86,-9.26
+temperature, X, Y, Z
+85.00,-2.20,0.35,-9.26
+temperature, X, Y, Z
+85.00,-2.59,-0.90,-8.55
+temperature, X, Y, Z
+85.00,-1.49,-1.29,-8.87
+temperature, X, Y, Z
+85.00,-2.20,0.08,-8.79
+temperature, X, Y, Z
+85.00,-1.49,-1.49,-8.59
+temperature, X, Y, Z
+85.00,-3.88,-0.82,-7.69
+temperature, X, Y, Z
+85.00,-4.31,-1.02,-8.55
+temperature, X, Y, Z
+85.00,-4.31,-1.10,-10.08
+temperature, X, Y, Z
+85.00,-4.12,-1.18,-7.34
+temperature, X, Y, Z
+85.00,-2.55,-1.57,-10.24
+temperature, X, Y, Z
+85.00,-1.96,-0.63,-7.65
+temperature, X, Y, Z
+85.00,-1.18,-1.29,-7.69
+temperature, X, Y, Z
+85.00,-2.51,-1.57,-7.81
+temperature, X, Y, Z
+85.00,-3.06,-0.27,-8.16
+temperature, X, Y, Z
+85.00,-2.51,-1.41,-7.18
+temperature, X, Y, Z
+85.00,-1.92,-0.82,-7.77
+temperature, X, Y, Z
+85.00,-1.14,-1.84,-10.28
+temperature, X, Y, Z
+85.00,-0.82,-1.65,-8.59
+temperature, X, Y, Z
+85.00,-3.33,-0.43,-7.69
+temperature, X, Y, Z
+85.00,-1.14,-1.77,-8.63
+temperature, X, Y, Z
+85.00,-2.90,-0.82,-7.92
+temperature, X, Y, Z
+85.00,-3.02,-1.06,-7.57
+temperature, X, Y, Z
+85.00,-0.67,-0.94,-7.65
+temperature, X, Y, Z
+85.00,-0.24,-1.33,-7.88
+temperature, X, Y, Z
+85.00,-2.08,-0.78,-8.00
+temperature, X, Y, Z
+85.00,-3.06,-0.08,-8.28
+temperature, X, Y, Z
+85.00,-3.30,0.00,-7.88
+temperature, X, Y, Z
+85.00,-2.86,-0.94,-8.00
+temperature, X, Y, Z
+85.00,-3.84,-0.67,-7.14
+temperature, X, Y, Z
+85.00,-3.06,-0.63,-7.69
+temperature, X, Y, Z
+85.00,-2.47,-0.98,-7.81
+temperature, X, Y, Z
+85.00,-1.73,-2.24,-9.69
+temperature, X, Y, Z
+85.00,-0.39,-0.47,-8.39
+temperature, X, Y, Z
+85.00,-1.84,-0.94,-9.10
+temperature, X, Y, Z
+85.00,-1.96,-0.67,-8.12
+temperature, X, Y, Z
+85.00,-1.80,-0.24,-8.20
+temperature, X, Y, Z
+85.00,-2.51,-1.37,-8.59
+temperature, X, Y, Z
+85.00,-3.69,-1.22,-6.75
+temperature, X, Y, Z
+85.00,-1.29,-1.69,-9.53
+temperature, X, Y, Z
+85.00,-2.47,-1.33,-8.32
+temperature, X, Y, Z
+85.00,-2.51,-0.67,-8.20
+temperature, X, Y, Z
+85.00,-1.18,0.51,-10.04
+temperature, X, Y, Z
+85.00,-1.41,-1.14,-9.26
+temperature, X, Y, Z
+85.00,-1.77,-1.96,-8.47
+temperature, X, Y, Z
+85.00,-2.71,0.47,-8.28
+temperature, X, Y, Z
+85.00,-2.39,-0.39,-8.83
+temperature, X, Y, Z
+85.00,-2.43,-1.06,-7.65
+temperature, X, Y, Z
+85.00,-2.86,-0.59,-6.59
+temperature, X, Y, Z
+85.00,-0.59,-1.29,-9.38
+temperature, X, Y, Z
+85.00,-2.31,-0.51,-7.22
+temperature, X, Y, Z
+85.00,-2.75,-0.55,-9.10
+temperature, X, Y, Z
+85.00,-0.90,-0.78,-8.04
+temperature, X, Y, Z
+85.00,-2.39,-1.02,-8.55
+temperature, X, Y, Z
+85.00,-2.51,-1.37,-7.41
+temperature, X, Y, Z
+85.00,-2.63,-1.37,-9.14
+temperature, X, Y, Z
+85.00,-4.08,-0.31,-8.04
+temperature, X, Y, Z
+85.00,-0.51,-0.20,-7.81
+temperature, X, Y, Z
+85.00,-4.51,-0.86,-7.34
+temperature, X, Y, Z
+85.00,-4.63,-1.49,-8.83
+temperature, X, Y, Z
+85.00,-1.57,-0.63,-7.41
+temperature, X, Y, Z
+85.00,-1.33,-0.47,-8.20
+temperature, X, Y, Z
+85.00,-2.39,-0.35,-7.37
+temperature, X, Y, Z
+85.00,-2.86,-0.16,-7.85
+temperature, X, Y, Z
+85.00,-1.80,-1.65,-8.20
+temperature, X, Y, Z
+85.00,-1.41,-1.02,-8.55
+temperature, X, Y, Z
+85.00,-1.37,-1.69,-8.08
+temperature, X, Y, Z
+85.00,-2.39,-1.88,-7.88
+temperature, X, Y, Z
+85.00,-2.08,-0.27,-8.43
+temperature, X, Y, Z
+85.00,-2.63,-1.26,-7.45
+temperature, X, Y, Z
+85.00,-2.39,-2.00,-8.43
+temperature, X, Y, Z
+85.00,-2.31,-0.43,-7.57
+temperature, X, Y, Z
+85.00,-3.37,-1.84,-7.88
+temperature, X, Y, Z
+85.00,-1.57,0.24,-7.69
+temperature, X, Y, Z
+85.00,-1.45,1.14,-8.08
+temperature, X, Y, Z
+85.00,-2.24,-1.77,-7.53
+temperature, X, Y, Z
+85.00,-0.86,-0.90,-8.00
+temperature, X, Y, Z
+85.00,-2.51,-1.88,-8.75
+temperature, X, Y, Z
+85.00,-2.35,-0.08,-8.47
+temperature, X, Y, Z
+85.00,-1.73,-0.47,-9.92
+temperature, X, Y, Z
+85.00,-2.63,-1.80,-8.71
+temperature, X, Y, Z
+85.00,-3.33,-0.75,-7.57
+temperature, X, Y, Z
+85.00,-3.69,-0.59,-9.45
+temperature, X, Y, Z
+85.00,-1.80,-2.31,-10.08
+temperature, X, Y, Z
+85.00,-1.22,0.08,-7.53
+temperature, X, Y, Z
+85.00,-1.29,0.12,-8.39
+temperature, X, Y, Z
+85.00,-3.26,-0.86,-7.18
+temperature, X, Y, Z
+85.00,-4.16,-0.47,-7.92
+temperature, X, Y, Z
+85.00,-2.47,-2.00,-11.06
+temperature, X, Y, Z
+85.00,-1.73,0.08,-8.94
+temperature, X, Y, Z
+85.00,-3.92,-1.33,-7.81
+temperature, X, Y, Z
+85.00,0.47,0.35,-8.87
+temperature, X, Y, Z
+85.00,-1.92,-1.73,-10.12
+temperature, X, Y, Z
+85.00,-3.33,-1.45,-8.12
+temperature, X, Y, Z
+85.00,-0.27,-1.84,-9.34
+temperature, X, Y, Z
+85.00,-2.12,-1.61,-8.47
+temperature, X, Y, Z
+85.00,-2.28,-1.29,-8.08
+temperature, X, Y, Z
+85.00,-0.43,0.04,-10.08
+temperature, X, Y, Z
+85.00,-3.30,-1.73,-6.86
+temperature, X, Y, Z
+85.00,-1.18,-0.39,-6.32
+temperature, X, Y, Z
+85.00,-1.61,-0.31,-6.00
+temperature, X, Y, Z
+85.00,-2.67,-0.94,-7.22
+temperature, X, Y, Z
+85.00,-3.80,-1.18,-7.49
+temperature, X, Y, Z
+85.00,-0.90,-1.49,-8.87
+temperature, X, Y, Z
+85.00,-2.82,0.35,-7.57
+temperature, X, Y, Z
+85.00,-1.77,-0.86,-8.51
+temperature, X, Y, Z
+85.00,-1.69,0.35,-9.06
+temperature, X, Y, Z
+85.00,-2.16,-0.71,-7.96
+temperature, X, Y, Z
+85.00,-4.31,0.43,-7.61
+temperature, X, Y, Z
+85.00,-3.88,-1.33,-8.00
+temperature, X, Y, Z
+85.00,-0.55,-1.33,-9.61
+temperature, X, Y, Z
+85.00,-4.67,-0.35,-7.69
+temperature, X, Y, Z
+85.00,-1.57,-0.86,-7.18
+temperature, X, Y, Z
+85.00,-2.51,-0.24,-7.45
+temperature, X, Y, Z
+85.00,-4.00,-1.06,-6.12
+temperature, X, Y, Z
+85.00,-0.67,-1.33,-9.45
+temperature, X, Y, Z
+85.00,-3.73,-1.57,-7.45
+temperature, X, Y, Z
+85.00,-0.71,-0.75,-8.32
+temperature, X, Y, Z
+85.00,-1.92,-1.33,-8.08
+temperature, X, Y, Z
+85.00,-2.59,0.20,-9.34
+temperature, X, Y, Z
+85.00,-2.12,-0.86,-7.77
+temperature, X, Y, Z
+85.00,-2.28,0.00,-8.63
+temperature, X, Y, Z
+85.00,-2.43,-2.55,-8.83
+temperature, X, Y, Z
+85.00,-0.55,-1.10,-8.90
+temperature, X, Y, Z
+85.00,-3.73,-1.18,-8.08
+temperature, X, Y, Z
+85.00,-2.12,-0.27,-7.30
+temperature, X, Y, Z
+85.00,-0.67,-1.06,-8.28
+temperature, X, Y, Z
+85.00,-1.73,-1.33,-8.90
+temperature, X, Y, Z
+85.00,-1.92,1.18,-10.87
+temperature, X, Y, Z
+85.00,-3.49,-1.10,-7.22
+temperature, X, Y, Z
+85.00,-0.71,0.08,-9.45
+temperature, X, Y, Z
+85.00,-2.98,-0.51,-7.88
+temperature, X, Y, Z
+85.00,-2.59,-1.26,-8.08
+temperature, X, Y, Z
+85.00,-2.00,-1.84,-8.75
+temperature, X, Y, Z
+85.00,-0.71,-2.59,-10.36
+temperature, X, Y, Z
+85.00,-4.63,-1.92,-9.41
+temperature, X, Y, Z
+85.00,-2.71,-0.59,-9.22
+temperature, X, Y, Z
+85.00,-1.02,-0.12,-6.94
+temperature, X, Y, Z
+85.00,-4.28,0.39,-8.55
+temperature, X, Y, Z
+85.00,-0.35,-0.63,-9.45
+temperature, X, Y, Z
+85.00,-3.77,-1.61,-8.71
+temperature, X, Y, Z
+85.00,-2.86,-0.27,-8.36
+temperature, X, Y, Z
+85.00,-2.24,0.20,-7.22
+temperature, X, Y, Z
+85.00,-1.92,-0.39,-8.79
+temperature, X, Y, Z
+85.00,-1.57,-1.45,-7.61
+temperature, X, Y, Z
+85.00,-1.65,-2.20,-7.92
+temperature, X, Y, Z
+85.00,-1.84,-0.16,-12.24
+temperature, X, Y, Z
+85.00,-2.16,0.24,-7.06
+temperature, X, Y, Z
+85.00,-2.98,-0.82,-7.26
+temperature, X, Y, Z
+85.00,-3.88,0.82,-6.47
+temperature, X, Y, Z
+85.00,-0.78,-1.22,-8.98
+temperature, X, Y, Z
+85.00,-2.98,-0.63,-9.81
+temperature, X, Y, Z
+85.00,-2.12,0.12,-8.39
+temperature, X, Y, Z
+85.00,-2.04,-1.10,-8.63
+temperature, X, Y, Z
+85.00,-1.06,-1.65,-7.34
+temperature, X, Y, Z
+85.00,-2.35,1.57,-7.37
+temperature, X, Y, Z
+85.00,0.16,-0.43,-8.51
+temperature, X, Y, Z
+85.00,-3.06,0.51,-7.53
+temperature, X, Y, Z
+85.00,-3.65,-1.26,-6.94
+temperature, X, Y, Z
+85.00,-2.63,-0.43,-6.83
+temperature, X, Y, Z
+85.00,-5.02,-1.37,-6.39
+temperature, X, Y, Z
+85.00,-3.18,-0.90,-8.08
+temperature, X, Y, Z
+85.00,-1.88,-0.47,-8.75
+temperature, X, Y, Z
+85.00,-3.30,-0.35,-6.39
+temperature, X, Y, Z
+85.00,-1.92,-1.22,-8.87
+temperature, X, Y, Z
+85.00,-3.26,-1.22,-8.08
+temperature, X, Y, Z
+85.00,-2.24,-1.33,-8.90
+temperature, X, Y, Z
+85.00,-1.26,0.59,-9.10
+temperature, X, Y, Z
+85.00,-4.16,-1.53,-8.28
+temperature, X, Y, Z
+85.00,0.00,-0.94,-7.85
+temperature, X, Y, Z
+85.00,-1.33,-0.63,-9.49
+temperature, X, Y, Z
+85.00,-0.71,-1.10,-9.53
+temperature, X, Y, Z
+85.00,-2.16,-3.49,-7.88
+temperature, X, Y, Z
+85.00,-0.51,0.00,-9.41
+temperature, X, Y, Z
+85.00,-2.71,-1.14,-6.79
+temperature, X, Y, Z
+85.00,-0.90,-0.94,-9.26
+temperature, X, Y, Z
+85.00,-1.18,-0.78,-8.12
+temperature, X, Y, Z
+85.00,-2.04,-1.61,-9.34
+temperature, X, Y, Z
+85.00,-1.26,-1.41,-12.00
+temperature, X, Y, Z
+85.00,0.00,-0.78,-9.02
+temperature, X, Y, Z
+85.00,0.31,-1.84,-11.73
+temperature, X, Y, Z
+85.00,-3.45,-1.22,-7.53
+temperature, X, Y, Z
+85.00,-1.88,-1.33,-8.39
+temperature, X, Y, Z
+85.00,-0.59,-1.18,-7.37
+temperature, X, Y, Z
+85.00,-1.22,-1.57,-7.77
+temperature, X, Y, Z
+85.00,-1.57,-0.82,-6.47
+temperature, X, Y, Z
+85.00,-3.14,-1.18,-7.92
+temperature, X, Y, Z
+85.00,-3.18,-0.08,-7.41
+temperature, X, Y, Z
+85.00,-1.80,-0.94,-7.92
+temperature, X, Y, Z
+85.00,-0.12,-0.27,-9.73
+temperature, X, Y, Z
+85.00,-1.80,-0.71,-8.87
+temperature, X, Y, Z
+85.00,-2.98,0.04,-7.30
+temperature, X, Y, Z
+85.00,-1.49,0.04,-8.90
+temperature, X, Y, Z
+85.00,-1.41,-1.84,-8.28
+temperature, X, Y, Z
+85.00,-2.63,-0.71,-7.69
+temperature, X, Y, Z
+85.00,-2.39,-0.43,-8.51
+temperature, X, Y, Z
+85.00,-2.12,-0.39,-8.24
+temperature, X, Y, Z
+85.00,-1.80,-1.14,-7.81
+temperature, X, Y, Z
+85.00,-0.71,-2.28,-11.49
+temperature, X, Y, Z
+85.00,-3.14,-0.51,-7.85
+temperature, X, Y, Z
+85.00,-3.30,-0.24,-10.43
+temperature, X, Y, Z
+85.00,-2.04,-2.08,-8.24
+temperature, X, Y, Z
+85.00,-0.35,-1.49,-10.24
+temperature, X, Y, Z
+85.00,-1.73,0.00,-9.38
+temperature, X, Y, Z
+85.00,-1.88,-0.27,-7.34
+temperature, X, Y, Z
+85.00,-2.12,-0.94,-9.14
+temperature, X, Y, Z
+85.00,-3.33,-0.51,-7.45
+temperature, X, Y, Z
+85.00,-2.82,-0.98,-7.81
+temperature, X, Y, Z
+85.00,-1.77,-0.39,-8.24
+temperature, X, Y, Z
+85.00,-3.92,-1.22,-7.69
+temperature, X, Y, Z
+85.00,-3.02,-1.02,-7.69
+temperature, X, Y, Z
+85.00,-0.86,-1.61,-8.90
+temperature, X, Y, Z
+85.00,-2.47,-1.06,-8.83
+temperature, X, Y, Z
+85.00,-1.61,-2.04,-9.73
+temperature, X, Y, Z
+85.00,-2.82,-1.10,-8.00
+temperature, X, Y, Z
+85.00,-3.41,-0.75,-7.49
+temperature, X, Y, Z
+85.00,-3.10,-1.26,-8.94
+temperature, X, Y, Z
+85.00,-1.29,-1.26,-7.49
+temperature, X, Y, Z
+85.00,-3.65,-1.06,-8.87
+temperature, X, Y, Z
+85.00,-2.43,0.12,-7.77
+temperature, X, Y, Z
+85.00,-0.39,-1.45,-8.39
+temperature, X, Y, Z
+85.00,-2.63,-1.29,-8.71
+temperature, X, Y, Z
+85.00,-2.35,-1.06,-8.16
+temperature, X, Y, Z
+85.00,-2.59,0.00,-9.45
+temperature, X, Y, Z
+85.00,-4.12,-1.14,-11.06
+temperature, X, Y, Z
+85.00,-0.75,-0.16,-9.41
+temperature, X, Y, Z
+85.00,-1.26,0.24,-8.39
+temperature, X, Y, Z
+85.00,-0.78,-1.22,-9.10
+temperature, X, Y, Z
+85.00,-1.22,-0.78,-8.87
+temperature, X, Y, Z
+85.00,-2.28,-0.43,-7.53
+temperature, X, Y, Z
+85.00,-2.67,-0.59,-9.73
+temperature, X, Y, Z
+85.00,-2.00,-1.22,-9.22
+temperature, X, Y, Z
+85.00,-3.53,-0.75,-7.30
+temperature, X, Y, Z
+85.00,-0.86,-0.78,-9.41
+temperature, X, Y, Z
+85.00,-1.84,-0.67,-7.53
+temperature, X, Y, Z
+85.00,-3.57,-2.51,-8.28
+temperature, X, Y, Z
+85.00,-1.49,-2.31,-8.63
+temperature, X, Y, Z
+85.00,-3.18,-1.41,-7.14
+temperature, X, Y, Z
+85.00,-1.84,-2.12,-9.45
+temperature, X, Y, Z
+85.00,-0.04,-0.39,-9.30
+temperature, X, Y, Z
+85.00,-4.24,0.04,-7.85
+temperature, X, Y, Z
+85.00,-2.20,0.00,-7.49
+temperature, X, Y, Z
+85.00,-1.49,0.24,-10.51
+temperature, X, Y, Z
+85.00,-1.73,-0.51,-7.85
+temperature, X, Y, Z
+85.00,-4.24,-1.26,-8.36
+temperature, X, Y, Z
+85.00,-2.08,-0.51,-8.51
+temperature, X, Y, Z
+85.00,-1.80,-1.02,-7.92
+temperature, X, Y, Z
+85.00,-2.20,-1.22,-8.43
+temperature, X, Y, Z
+85.00,-2.20,-0.39,-8.00
+temperature, X, Y, Z
+85.00,-1.26,-2.47,-10.04
+temperature, X, Y, Z
+85.00,-1.65,-0.63,-9.96
+temperature, X, Y, Z
+85.00,-3.14,-0.82,-9.22
+temperature, X, Y, Z
+85.00,-2.94,-0.51,-7.37
+temperature, X, Y, Z
+85.00,-2.43,-0.82,-7.37
+temperature, X, Y, Z
+85.00,-0.20,0.04,-8.98
+temperature, X, Y, Z
+85.00,-1.53,-1.22,-9.30
+temperature, X, Y, Z
+85.00,-1.57,0.24,-7.85
+temperature, X, Y, Z
+85.00,-1.02,-0.39,-8.59
+temperature, X, Y, Z
+85.00,-1.06,-0.51,-9.30
+temperature, X, Y, Z
+85.00,-2.35,-0.43,-10.20
+temperature, X, Y, Z
+85.00,-2.90,-0.59,-7.65
+temperature, X, Y, Z
+85.00,-1.49,-1.14,-7.81
+temperature, X, Y, Z
+85.00,-0.47,-0.98,-10.04
+temperature, X, Y, Z
+85.00,-1.10,-1.49,-8.47
+temperature, X, Y, Z
+85.00,-2.00,-0.98,-8.47
+temperature, X, Y, Z
+85.00,-3.73,-0.71,-6.83
+temperature, X, Y, Z
+85.00,-1.41,-1.53,-7.26
+temperature, X, Y, Z
+85.00,-0.59,-1.45,-8.98
+temperature, X, Y, Z
+85.00,-3.45,-0.94,-7.14
+temperature, X, Y, Z
+85.00,-2.55,-2.04,-8.75
+temperature, X, Y, Z
+85.00,-0.59,-0.39,-9.45
+temperature, X, Y, Z
+85.00,-2.90,-0.67,-7.30
+temperature, X, Y, Z
+85.00,-3.18,-0.86,-7.81
+temperature, X, Y, Z
+85.00,-0.98,-0.86,-8.90
+temperature, X, Y, Z
+85.00,-2.71,-1.29,-8.04
+temperature, X, Y, Z
+85.00,-1.84,-0.71,-8.90
+temperature, X, Y, Z
+85.00,-3.26,-0.47,-7.65
+temperature, X, Y, Z
+85.00,-1.22,-2.39,-7.57
+temperature, X, Y, Z
+85.00,-2.94,-1.41,-7.06
+temperature, X, Y, Z
+85.00,-2.51,-0.35,-7.85
+temperature, X, Y, Z
+85.00,-5.10,-1.26,-7.61
+temperature, X, Y, Z
+85.00,-1.96,-1.26,-8.47
+temperature, X, Y, Z
+85.00,-0.86,-3.26,-9.18
+temperature, X, Y, Z
+85.00,-2.79,-1.92,-7.81
+temperature, X, Y, Z
+85.00,-1.92,0.08,-8.43
+temperature, X, Y, Z
+85.00,-3.14,-0.35,-7.10
+temperature, X, Y, Z
+85.00,-3.02,-0.82,-7.45
+temperature, X, Y, Z
+85.00,-2.63,0.08,-7.61
+temperature, X, Y, Z
+85.00,-2.98,-2.47,-10.47
+temperature, X, Y, Z
+85.00,-2.43,-1.10,-8.32
+temperature, X, Y, Z
+85.00,-3.57,0.00,-7.22
+temperature, X, Y, Z
+85.00,-3.14,-1.65,-7.53
+temperature, X, Y, Z
+85.00,-1.33,-1.80,-9.49
+temperature, X, Y, Z
+85.00,-1.14,-0.63,-7.81
+temperature, X, Y, Z
+85.00,-2.24,-0.63,-7.49
+temperature, X, Y, Z
+85.00,-2.08,0.04,-8.59
+temperature, X, Y, Z
+85.00,-0.43,-1.80,-10.63
+temperature, X, Y, Z
+85.00,-1.57,0.00,-8.00
+temperature, X, Y, Z
+85.00,-2.00,0.00,-8.24
+temperature, X, Y, Z
+85.00,-2.71,-1.61,-8.98
+temperature, X, Y, Z
+85.00,-1.73,-4.31,-6.90
+temperature, X, Y, Z
+85.00,-2.67,-1.41,-9.06
+temperature, X, Y, Z
+85.00,-0.82,-1.61,-7.30
+temperature, X, Y, Z
+85.00,1.57,-1.77,-10.98
+temperature, X, Y, Z
+85.00,0.98,-2.20,-10.98
+temperature, X, Y, Z
+85.00,-1.96,0.00,-8.32
+temperature, X, Y, Z
+85.00,-2.00,-0.35,-9.34
+temperature, X, Y, Z
+85.00,-4.51,-1.57,-7.57
+temperature, X, Y, Z
+85.00,-2.71,-0.71,-8.04
+temperature, X, Y, Z
+85.00,-1.92,-0.90,-9.65
+temperature, X, Y, Z
+85.00,-3.18,-1.29,-7.77
+temperature, X, Y, Z
+85.00,-3.41,-1.10,-7.85
+temperature, X, Y, Z
+85.00,-2.59,-0.75,-7.61
+temperature, X, Y, Z
+85.00,-3.18,-1.80,-6.79
+temperature, X, Y, Z
+85.00,-3.02,-0.75,-7.65
+temperature, X, Y, Z
+85.00,-1.96,-0.08,-7.81
+temperature, X, Y, Z
+85.00,-3.61,-1.80,-9.10
+temperature, X, Y, Z
+85.00,-2.28,-1.37,-7.34
+temperature, X, Y, Z
+85.00,-2.39,-1.02,-7.61
+temperature, X, Y, Z
+85.00,-2.94,-1.10,-7.41
+temperature, X, Y, Z
+85.00,-1.69,0.08,-8.90
+temperature, X, Y, Z
+85.00,-1.84,-0.90,-7.61
+temperature, X, Y, Z
+85.00,0.00,-1.41,-8.67
+temperature, X, Y, Z
+85.00,-3.30,-0.20,-7.96
+temperature, X, Y, Z
+85.00,-1.33,-0.51,-10.24
+temperature, X, Y, Z
+85.00,-2.51,-1.14,-8.16
+temperature, X, Y, Z
+85.00,-2.67,-1.18,-8.32
+temperature, X, Y, Z
+85.00,-1.80,0.43,-9.53
+temperature, X, Y, Z
+85.00,-2.63,-0.63,-8.55
+temperature, X, Y, Z
+85.00,-1.96,-3.02,-8.51
+temperature, X, Y, Z
+85.00,-2.55,-0.59,-9.38
+temperature, X, Y, Z
+85.00,-2.75,-0.16,-8.98
+temperature, X, Y, Z
+85.00,-2.28,-0.08,-8.67
+temperature, X, Y, Z
+85.00,-0.98,-1.14,-7.61
+temperature, X, Y, Z
+85.00,-3.30,-1.33,-8.16
+temperature, X, Y, Z
+85.00,-3.14,-1.14,-9.38
+temperature, X, Y, Z
+85.00,-1.57,-1.57,-10.32
+temperature, X, Y, Z
+85.00,-3.10,-0.39,-7.81
+temperature, X, Y, Z
+85.00,-2.31,-0.08,-7.45
+temperature, X, Y, Z
+85.00,-3.88,-1.41,-7.69
+temperature, X, Y, Z
+85.00,-2.71,-1.65,-7.18
+temperature, X, Y, Z
+85.00,-1.92,-0.31,-8.94
+temperature, X, Y, Z
+85.00,-4.82,-0.39,-6.75
+temperature, X, Y, Z
+85.00,-0.63,-1.57,-8.87
+temperature, X, Y, Z
+85.00,-1.57,-0.31,-6.90
+temperature, X, Y, Z
+85.00,-0.35,-1.53,-8.32
+temperature, X, Y, Z
+85.00,-2.35,-0.82,-8.59
+temperature, X, Y, Z
+85.00,-1.57,-2.04,-8.20
+temperature, X, Y, Z
+85.00,-1.73,0.24,-6.67
+temperature, X, Y, Z
+85.00,-3.45,-2.20,-6.67
+temperature, X, Y, Z
+85.00,-1.88,-0.75,-9.65
+temperature, X, Y, Z
+85.00,-2.55,-1.65,-8.43
+temperature, X, Y, Z
+85.00,-1.33,-0.55,-7.53
+temperature, X, Y, Z
+85.00,-0.86,-0.59,-8.79
+temperature, X, Y, Z
+85.00,-3.73,-0.67,-7.96
+temperature, X, Y, Z
+85.00,-1.33,-0.78,-8.12
+temperature, X, Y, Z
+85.00,-2.47,-0.63,-7.69
+temperature, X, Y, Z
+85.00,-1.45,-1.33,-10.04
+temperature, X, Y, Z
+85.00,-0.24,-1.18,-7.88
+temperature, X, Y, Z
+85.00,-1.92,-1.41,-7.41
+temperature, X, Y, Z
+85.00,-2.90,0.47,-8.28
+temperature, X, Y, Z
+85.00,-2.24,-1.33,-9.41
+temperature, X, Y, Z
+85.00,-0.75,-0.47,-8.00
+temperature, X, Y, Z
+85.00,-3.18,-1.53,-7.88
+temperature, X, Y, Z
+85.00,-1.73,-1.06,-7.96
+temperature, X, Y, Z
+85.00,-2.35,-2.51,-7.22
+temperature, X, Y, Z
+85.00,-3.30,-0.71,-7.30
+temperature, X, Y, Z
+85.00,-1.80,-1.18,-7.37
+temperature, X, Y, Z
+85.00,-1.26,-0.51,-7.57
+temperature, X, Y, Z
+85.00,-1.61,-1.33,-8.87
+temperature, X, Y, Z
+85.00,-1.06,-0.39,-8.94
+temperature, X, Y, Z
+85.00,-2.31,-0.59,-9.89
+temperature, X, Y, Z
+85.00,-1.02,-1.88,-10.04
+temperature, X, Y, Z
+85.00,-2.63,-1.49,-8.67
+temperature, X, Y, Z
+85.00,-3.84,-0.63,-7.69
+temperature, X, Y, Z
+85.00,-4.08,-0.98,-7.18
+temperature, X, Y, Z
+85.00,-3.22,-0.98,-9.30
+temperature, X, Y, Z
+85.00,-3.45,-0.75,-7.69
+temperature, X, Y, Z
+85.00,-3.06,-1.45,-8.16
+temperature, X, Y, Z
+85.00,-0.90,-1.69,-7.37
+temperature, X, Y, Z
+85.00,0.04,0.35,-8.75
+temperature, X, Y, Z
+85.00,-3.22,-0.51,-6.94
+temperature, X, Y, Z
+85.00,-3.80,-1.92,-8.24
+temperature, X, Y, Z
+85.00,0.08,-1.26,-9.30
+temperature, X, Y, Z
+85.00,-1.96,-0.67,-7.92
+temperature, X, Y, Z
+85.00,-2.98,-0.71,-7.53
+temperature, X, Y, Z
+85.00,-1.73,-1.29,-9.22
+temperature, X, Y, Z
+85.00,-3.45,1.37,-6.43
+temperature, X, Y, Z
+85.00,-1.14,-0.59,-7.77
+temperature, X, Y, Z
+85.00,-4.00,-0.71,-7.14
+temperature, X, Y, Z
+85.00,-2.24,-0.71,-8.59
+temperature, X, Y, Z
+85.00,-3.49,0.04,-7.69
+temperature, X, Y, Z
+85.00,-0.98,-1.41,-8.87
+temperature, X, Y, Z
+85.00,-4.79,-1.02,-8.24
+temperature, X, Y, Z
+85.00,-1.37,-0.63,-8.59
+temperature, X, Y, Z
+85.00,-3.80,-1.96,-8.71
+temperature, X, Y, Z
+85.00,-2.08,-1.06,-8.71
+temperature, X, Y, Z
+85.00,-4.20,-0.94,-6.75
+temperature, X, Y, Z
+85.00,-2.24,-2.90,-9.26
+temperature, X, Y, Z
+85.00,-1.80,-1.10,-8.36
+temperature, X, Y, Z
+85.00,-2.59,-0.67,-9.02
+temperature, X, Y, Z
+85.00,-3.53,-0.39,-7.61
+temperature, X, Y, Z
+85.00,-2.39,-1.57,-8.67
+temperature, X, Y, Z
+85.00,-3.30,-1.10,-9.38
+temperature, X, Y, Z
+85.00,-2.12,-0.98,-8.43
+temperature, X, Y, Z
+85.00,-3.61,-1.06,-8.75
+temperature, X, Y, Z
+85.00,-2.55,-0.39,-9.38
+temperature, X, Y, Z
+85.00,-0.75,0.00,-8.75
+temperature, X, Y, Z
+85.00,-3.10,-1.80,-8.08
+temperature, X, Y, Z
+85.00,-1.14,-1.33,-8.55
+temperature, X, Y, Z
+85.00,-3.61,-1.73,-8.39
+temperature, X, Y, Z
+85.00,-3.06,-1.77,-6.28
+temperature, X, Y, Z
+85.00,-4.04,-1.65,-7.53
+temperature, X, Y, Z
+85.00,0.86,0.08,-9.30
+temperature, X, Y, Z
+85.00,-2.31,-0.12,-7.14
+temperature, X, Y, Z
+85.00,-2.43,-0.31,-8.59
+temperature, X, Y, Z
+85.00,-4.16,-0.08,-8.47
+temperature, X, Y, Z
+85.00,-0.43,-1.29,-9.26
+temperature, X, Y, Z
+85.00,-2.67,-0.24,-8.90
+temperature, X, Y, Z
+85.00,-4.90,-1.26,-6.90
+temperature, X, Y, Z
+85.00,-0.67,-0.12,-9.57
+temperature, X, Y, Z
+85.00,-4.04,-1.53,-9.96
+temperature, X, Y, Z
+85.00,-1.53,-1.22,-10.67
+temperature, X, Y, Z
+85.00,-1.69,-0.75,-8.12
+temperature, X, Y, Z
+85.00,-0.82,0.00,-7.49
+temperature, X, Y, Z
+85.00,-2.82,-1.14,-7.37
+temperature, X, Y, Z
+85.00,-2.67,-0.55,-7.92
+temperature, X, Y, Z
+85.00,-3.45,-1.69,-8.12
+temperature, X, Y, Z
+85.00,-2.75,-0.08,-7.49
+temperature, X, Y, Z
+85.00,-1.96,-0.16,-7.77
+temperature, X, Y, Z
+85.00,-0.94,-1.33,-9.38
+temperature, X, Y, Z
+85.00,-1.61,-0.31,-8.51
+temperature, X, Y, Z
+85.00,-1.49,-0.94,-8.16
+temperature, X, Y, Z
+85.00,-2.94,-1.77,-7.65
+temperature, X, Y, Z
+85.00,-0.98,-0.35,-8.90
+temperature, X, Y, Z
+85.00,-2.12,-1.77,-8.98
+temperature, X, Y, Z
+85.00,-2.55,-0.78,-8.79
+temperature, X, Y, Z
+85.00,-2.79,-0.63,-7.65
+temperature, X, Y, Z
+85.00,-2.86,-1.10,-7.81
+temperature, X, Y, Z
+85.00,-3.80,-0.59,-7.92
+temperature, X, Y, Z
+85.00,-3.65,-1.29,-8.12
+temperature, X, Y, Z
+85.00,-2.63,-1.65,-9.96
+temperature, X, Y, Z
+85.00,-2.31,-1.29,-7.81
+temperature, X, Y, Z
+85.00,-1.69,-0.35,-8.90
+temperature, X, Y, Z
+85.00,-2.63,0.00,-9.96
+temperature, X, Y, Z
+85.00,-2.79,-0.27,-8.67
+temperature, X, Y, Z
+85.00,-2.55,-1.18,-8.90
+temperature, X, Y, Z
+85.00,-3.33,-1.29,-6.59
+temperature, X, Y, Z
+85.00,-1.61,-0.86,-9.06
+temperature, X, Y, Z
+85.00,-3.61,-0.78,-8.28
+temperature, X, Y, Z
+85.00,-3.37,-1.14,-8.71
+temperature, X, Y, Z
+85.00,-3.73,-1.37,-6.90
+temperature, X, Y, Z
+85.00,-3.45,-1.65,-9.10
+temperature, X, Y, Z
+85.00,-1.65,-1.49,-9.02
+temperature, X, Y, Z
+85.00,-0.90,-1.49,-7.53
+temperature, X, Y, Z
+85.00,-3.61,-0.67,-6.90
+temperature, X, Y, Z
+85.00,-1.29,-1.18,-9.18
+temperature, X, Y, Z
+85.00,-4.12,-2.75,-8.16
+temperature, X, Y, Z
+85.00,-2.31,-1.65,-6.75
+temperature, X, Y, Z
+85.00,-4.39,-0.16,-6.86
+temperature, X, Y, Z
+85.00,-3.88,-1.33,-7.77
+temperature, X, Y, Z
+85.00,-0.82,-1.41,-8.00
+temperature, X, Y, Z
+85.00,-2.08,-1.02,-9.73
+temperature, X, Y, Z
+85.00,-1.65,-0.47,-8.63
+temperature, X, Y, Z
+85.00,-0.86,-1.33,-9.57
+temperature, X, Y, Z
+85.00,-3.26,-2.31,-7.10
+temperature, X, Y, Z
+85.00,-1.26,0.35,-8.83
+temperature, X, Y, Z
+85.00,-2.98,-1.84,-8.24
+temperature, X, Y, Z
+85.00,-1.61,-1.80,-8.32
+temperature, X, Y, Z
+85.00,-3.26,-0.82,-8.00
+temperature, X, Y, Z
+85.00,-3.61,-1.53,-7.81
+temperature, X, Y, Z
+85.00,-2.51,-0.98,-7.14
+temperature, X, Y, Z
+85.00,-0.98,-0.04,-8.98
+temperature, X, Y, Z
+85.00,-0.86,-2.55,-10.16
+temperature, X, Y, Z
+85.00,-1.65,-1.65,-7.57
+temperature, X, Y, Z
+85.00,-2.47,-0.12,-8.71
+temperature, X, Y, Z
+85.00,-4.28,-0.20,-8.43
+temperature, X, Y, Z
+85.00,-2.55,-0.63,-6.98
+temperature, X, Y, Z
+85.00,-1.14,-0.47,-7.85
+temperature, X, Y, Z
+85.00,-2.35,-1.02,-7.92
+temperature, X, Y, Z
+85.00,-4.16,0.00,-8.75
+temperature, X, Y, Z
+85.00,-2.67,-0.31,-7.57
+temperature, X, Y, Z
+85.00,0.78,-1.29,-9.65
+temperature, X, Y, Z
+85.00,-0.51,-1.14,-7.61
+temperature, X, Y, Z
+85.00,-2.51,-1.77,-8.90
+temperature, X, Y, Z
+85.00,1.69,-2.63,-9.18
+temperature, X, Y, Z
+85.00,1.49,-2.43,-7.14
+temperature, X, Y, Z
+85.00,-1.80,-1.73,-8.39
+temperature, X, Y, Z
+85.00,-2.31,0.12,-9.38
+temperature, X, Y, Z
+85.00,-2.16,-1.22,-8.16
+temperature, X, Y, Z
+85.00,-3.06,0.75,-8.08
+temperature, X, Y, Z
+85.00,-3.06,0.75,-8.16
+temperature, X, Y, Z
+85.00,0.08,8.94,4.82
+temperature, X, Y, Z
+85.00,-0.20,11.92,5.10
+temperature, X, Y, Z
+85.00,-1.10,9.61,2.75
+temperature, X, Y, Z
+85.00,-1.53,7.77,2.08
+temperature, X, Y, Z
+85.00,0.20,6.20,3.02
+temperature, X, Y, Z
+85.00,1.26,7.57,3.41
+temperature, X, Y, Z
+85.00,-0.55,8.51,1.73
+temperature, X, Y, Z
+85.00,0.16,13.22,3.06
+temperature, X, Y, Z
+85.00,-1.84,11.34,1.80
+temperature, X, Y, Z
+85.00,-0.39,12.24,4.47
+temperature, X, Y, Z
+85.00,-0.94,7.49,2.16
+temperature, X, Y, Z
+85.00,-1.37,9.49,4.31
+temperature, X, Y, Z
+85.00,-1.45,10.20,4.12
+temperature, X, Y, Z
+85.00,3.37,10.20,5.69
+temperature, X, Y, Z
+85.00,-1.06,0.27,11.30
+temperature, X, Y, Z
+85.00,-1.06,0.27,11.22
+temperature, X, Y, Z
+85.00,-1.02,0.27,11.22
+temperature, X, Y, Z
+85.00,-1.06,0.31,11.18
+temperature, X, Y, Z
+85.00,-0.82,0.27,11.38
+temperature, X, Y, Z
+85.00,-9.49,-0.12,-3.18
+temperature, X, Y, Z
+85.00,-8.20,4.79,-2.59
+temperature, X, Y, Z
+85.00,-2.00,8.39,-2.63
+temperature, X, Y, Z
+85.00,3.10,9.18,-1.84
+temperature, X, Y, Z
+85.00,4.79,8.39,-1.84
+temperature, X, Y, Z
+85.00,0.04,8.90,-2.63
+temperature, X, Y, Z
+85.00,1.26,10.12,2.55

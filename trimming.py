@@ -4,39 +4,39 @@ x = []
 y = []
 z = []
 time = []
-hour = 17
-minute = 10
-second = 0
+hour = 12
+minute = 13
 
-def time_update (hour, minute, second) :
+def time_update (hour, minute) :
     to_return = []
-    if (second == 59) :
-        second = 0
-        minute = minute + 1
-    if (minute == 59) :
-        minute = 0
-        hour = hour + 1
-    if (hour == 23) :
+    if (hour == 23 and minute == 59) :
         hour = 0
+    elif (minute == 59):
+        hour = hour + 1
+        minute = 0
     else :
-        minute = minute +1
-    time_str = str(hour)+":"+str(minute)+":"+str(second)
+        minute = minute + 1
+
+    time_str = str(hour)+":"+str(minute)
     to_return.append(time_str)
     to_return.append(hour)
     to_return.append(minute)
-    to_return.append(second)
     return(to_return)
 
-with open("result.csv", 'r') as f :
+first = 0
+with open("RESULT.TXT", 'r') as f :
     for line in f :
         line = line.rstrip()
-        if "date" not in line :
-            tUp = time_update(hour, minute, second)
-            print(tUp)
-            hour = tUp[1]
-            minute = tUp[2]
-            second = tUp[3]
-            time.append(tUp[0])
+        if "temperature" not in line :
+            if first != 0 :
+                tUp = time_update(hour, minute)
+                print(tUp)
+                hour = tUp[1]
+                minute = tUp[2]
+                time.append(tUp[0])
+            else :
+                time.append(str(hour)+":"+str(minute))
+                first +=1
             splitted = line.split(",")
             temp.append(splitted[0])
             x.append(splitted[1])
